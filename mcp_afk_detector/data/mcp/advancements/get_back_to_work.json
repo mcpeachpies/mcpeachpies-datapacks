@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "dead_bush"
+    },
+    "title": "Get back to work",
+    "description": "Be Away from your keyboard for 24 hours",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcp:are_you_still_there",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

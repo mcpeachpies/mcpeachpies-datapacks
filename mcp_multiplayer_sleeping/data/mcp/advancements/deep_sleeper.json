@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "blue_bed"
+    },
+    "title": "Deep Sleeper",
+    "description": "You've been asleep for a long time",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcp:well_rested",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

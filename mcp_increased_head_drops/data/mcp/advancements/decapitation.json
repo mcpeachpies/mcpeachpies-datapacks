@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "player_head"
+    },
+    "title": "Decapitation",
+    "description": "Explode a charged Creeper and drop a player head",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcp:root",
+  "criteria": {
+    "c1": {
+        "trigger": "minecraft:entity_killed_player",
+        "conditions": {
+            "entity": {
+                "type": "minecraft:creeper",
+                "nbt": "{powered:1b}"
+            }
+        }
+    }
+}
+}
