@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "dead_bush"
+      "item": "compass"
     },
     "title": "Are you still there?",
-    "description": "Go Away from your Keyboard for the first time",
+    "description": "Where did you go?",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

@@ -1,5 +1,6 @@
 scoreboard objectives add mcp_sleep_count dummy
 scoreboard objectives add mcp_sleep_total dummy
+scoreboard objectives add mcp_sleep_adv dummy
 scoreboard objectives add mcp_sleep_kick trigger
 
 scoreboard players set value_morning mcp_sleep_count 23450

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "orange_bed"
+    },
+    "title": "The Courtesy Call",
+    "description": "Good morning. You have been in suspension for nine nine nine...",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcp:the_wake_up_call",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

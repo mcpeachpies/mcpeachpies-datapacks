@@ -1,16 +1,16 @@
 {
   "display": {
     "icon": {
-      "item": "blue_bed"
+      "item": "clock"
     },
-    "title": "Deep Sleeper",
-    "description": "You've been asleep for a long time",
-    "frame": "task",
+    "title": "Is anyone there?",
+    "description": "You've been gone for a long time",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mcp:well_rested",
+  "parent": "mcp:are_you_still_there",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:impossible"
