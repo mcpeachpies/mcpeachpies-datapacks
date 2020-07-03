@@ -1,16 +1,16 @@
 {
   "display": {
     "icon": {
-      "item": "clock"
+      "item": "dead_bush"
     },
     "title": "Is anyone there?",
-    "description": "You've been gone for a long time",
+    "description": "Spend 100 hours away from your keyboard",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mcp:are_you_still_there",
+  "parent": "mcp:hi_drax",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:impossible"

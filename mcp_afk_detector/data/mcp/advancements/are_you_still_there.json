@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "compass"
+      "item": "oak_sapling"
     },
     "title": "Are you still there?",
-    "description": "Where did you go?",
+    "description": "Go away from your keyboard for the first time",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

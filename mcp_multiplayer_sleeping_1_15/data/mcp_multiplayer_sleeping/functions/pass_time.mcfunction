@@ -6,7 +6,7 @@ execute if score value_daytime mcp_sleep_count > value_morning mcp_sleep_count r
 scoreboard players add @a[tag=mcp_in_bed] mcp_sleep_total 1
 execute if score value_daytime mcp_sleep_count > value_morning mcp_sleep_count run scoreboard players add @a[tag=mcp_in_bed] mcp_sleep_adv 1
 advancement grant @a[tag=mcp_in_bed,scores={mcp_sleep_adv=50}] only mcp:the_wake_up_call
-advancement grant @a[tag=mcp_in_bed,scores={mcp_sleep_adv=99}] only mcp:the_courtesy_call
+advancement grant @a[tag=mcp_in_bed,scores={mcp_sleep_adv=999}] only mcp:the_courtesy_call
 
 #Time Passing
 execute if score value_daytime mcp_sleep_count > value_night mcp_sleep_count as @a[tag=mcp_in_bed,limit=5] run time add 200t
