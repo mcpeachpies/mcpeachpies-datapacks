@@ -20,7 +20,7 @@ scoreboard players set @s[scores={mcp_afk_still=..2}] mcp_afk_count 0
 scoreboard players add @s[tag=mcp_afk] mcp_afk_total 1
 
 advancement grant @s[scores={mcp_afk_total=1}] only mcp:are_you_still_there
-advancement grant @s[scores={mcp_afk_total=3600}] only mcp:hi_drax
+advancement grant @s[scores={mcp_afk_total=3600..}] only mcp:how_long_have_you_been_standing_there
 advancement grant @s[scores={mcp_afk_total=360000}] only mcp:is_anyone_there
 
 execute as @s[scores={mcp_afk_count=600..},tag=!mcp_afk] run function mcp_afk_detector:afk_away
