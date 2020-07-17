@@ -1,0 +1,23 @@
+{
+	"title": "Player Head Drops",
+	"description": "Get in-game mob head drops from Creepers, Skeletons, Zombies and Players!",
+	"youtube": null,
+	"features": [
+		{
+			"label": "Player heads will drop when killed by a charged Creeper. Player heads have a rare chance of being dropped when killed by another player"
+		},
+		{
+			"label": "Alternate version for drops ONLY from charged Creepers"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download for 1.16",
+			"file": null
+		},
+		{
+			"label": "Download for 1.16 (Charged Creepers only)",
+			"file": null
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"title": "Increased Head Drops",
+	"description": "Get in-game mob head drops from Creepers, Skeletons, Zombies and Players!",
+	"youtube": null,
+	"features": [
+		{
+			"label": "Player heads will drop when killed by a charged Creeper. Player heads have a rare chance of being dropped when killed by another player"
+		},
+		{
+			"label": "Zombie, Skeleton, and Creeper heads have a rare chance of being dropped when killed by a player"
+		},
+		{
+			"label": "Steve heads can be found as rare loot in chests in Dungeons, Woodland mansions, Jungle temples, Bastions, and Strongholds"
+		},
+		{
+			"label": "Bonus Feature: Jungle Temple arrows are poisonious"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download for 1.16",
+			"file": null
+		}
+	]
+}
