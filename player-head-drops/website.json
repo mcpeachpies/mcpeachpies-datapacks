@@ -1,7 +1,6 @@
 {
 	"title": "Player Head Drops",
-	"description": "Get in-game mob head drops from Creepers, Skeletons, Zombies and Players!",
-	"description_short": "Get in-game mob head drops from Creepers, Skeletons, Zombies and Players!",
+	"description": "Drop player heads when exploded by a charged Creeper",
 	"youtube": null,
 	"icon": "mcpeachpies-player-head-drops/pack.png",
 	"list_on_site": true,
