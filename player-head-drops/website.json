@@ -3,6 +3,7 @@
 	"description": "Get in-game mob head drops from Creepers, Skeletons, Zombies and Players!",
 	"description_short": "Get in-game mob head drops from Creepers, Skeletons, Zombies and Players!",
 	"youtube": null,
+	"icon": "mcpeachpies-player-head-drops/pack.png",
 	"list_on_site": true,
 	"features": [
 		{
