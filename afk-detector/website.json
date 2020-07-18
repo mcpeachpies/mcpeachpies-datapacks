@@ -1,7 +1,9 @@
 {
 	"title": "AFK Detector",
 	"description": "Detect, announce, and label players who are away from their Keyboards",
+	"description_short": "Detect, announce, and label players who are away from their Keyboards",
 	"youtube": null,
+	"list_on_site": true,
 	"features": [
 		{
 			"label": "Announces players who have not moved in 10 minutes as away from their keyboards"

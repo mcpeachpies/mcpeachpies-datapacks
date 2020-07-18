@@ -1,7 +1,9 @@
 {
 	"title": "Increased Shulker Shells",
 	"description": "Creates an additional chance for Shulkers two drop a maximum of 2 shells",
+	"description_short": "Creates an additional chance for Shulkers two drop a maximum of 2 shells",
 	"youtube": null,
+	"list_on_site": true,
 	"features": [
 		{
 			"label": "Adds a second Shulker shell drop chance at the same drop rate as a single shell"

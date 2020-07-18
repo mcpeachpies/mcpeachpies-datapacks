@@ -1,7 +1,9 @@
 {
 	"title": "Multiplayer Sleeping",
 	"description": "Adds multiplayer sleeping functionality by allowing time to be passed without requring all online players to be sleeping in beds",
+	"description_short": "Adds multiplayer sleeping functionality by allowing time to be passed without requring all online players to be sleeping in beds",
 	"youtube": null,
+	"list_on_site": true,
 	"features": [
 		{
 			"label": "Allows players to sleep through the night when 25% of online players (In the overworld) are sleeping"
