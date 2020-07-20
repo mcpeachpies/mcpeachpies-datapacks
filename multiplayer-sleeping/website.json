@@ -1,7 +1,7 @@
 {
 	"title": "Multiplayer Sleeping",
 	"description": "Adds multiplayer sleeping functionality by allowing time to be passed without requring all online players to be sleeping in beds",
-	"description_short": "Adds multiplayer sleeping functionality by allowing time to be passed without requring all online players to be sleeping in beds",
+	"description_short": "Pass nighttime without requring all online players to be sleeping",
 	"youtube": null,
 	"list_on_site": true,
 	"icon": "mcpeachpies-multiplayer-sleeping/pack.png",
