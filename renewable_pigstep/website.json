@@ -1,0 +1,21 @@
+{
+	"title": "Renewable Pigstep",
+	"description": "Get Pigstep music discs from Creepers",
+	"youtube": null,
+	"icon": "mcpeachpies_renewable_pigstep/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Creepers killed by a Piglin with a crossbow will drop the 'Pigstep' music disc"
+		},
+		{
+			"label": "Made in collaberation with Noahh__"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": null
+		}
+	]
+}

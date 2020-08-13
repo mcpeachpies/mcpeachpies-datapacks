@@ -1,0 +1,30 @@
+{
+	"title": "AFK Detector",
+	"description": "Detect, announce, and label players who are away from their Keyboards",
+	"youtube": null,
+	"list_on_site": true,
+	"icon": "mcpeachpies_afk_detector/pack.png",
+	"features": [
+		{
+			"label": "Announces players who have not moved in 5 minutes as away from their keyboards"
+		},
+		{
+			"label": "Attaches AFK prefix to players who are away from their keyboards"
+		},
+		{
+			"label": "Optional team configurations to functionality with pre-establised in-game teams"
+		},
+		{
+			"label": "Trigger command to instantly go away from your keyboard `/trigger afk`"
+		},
+		{
+			"label": "Compatable with Minecraft 1.13 and up"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": null
+		}
+	]
+}

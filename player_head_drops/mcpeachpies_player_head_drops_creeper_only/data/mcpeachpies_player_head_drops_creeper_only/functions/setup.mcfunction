@@ -1,0 +1,2 @@
+scoreboard objectives add mpp_decap_adv dummy ["",{"text":"Decapitation by Charged Creeper","color":"blue"}]
+tellraw @a[gamemode=!survival,gamemode=!adventure] ["",{"text":"Ran Setup for ","color":"gray"},{"text":"mcpeachpies Player Head Drops (Creeper Only)","italic":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://mcpeachpies.com/datapacks/?player_head_drops_creeper_only"},"hoverEvent":{"action":"show_text","contents":["",{"text":"mcpeachpies.com/datapacks/?player_head_drops_creeper_only","color":"gray"}]}}]

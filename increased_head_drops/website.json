@@ -1,0 +1,31 @@
+{
+	"title": "Increased Head Drops",
+	"description": "Get in-game mob head drops from Players, Creepers, Skeletons, and Zombies",
+	"youtube": null,
+	"list_on_site": true,
+	"icon": "mcpeachpies_increased_head_drops/pack.png",
+	"features": [
+		{
+			"label": "Player heads will drop when killed by a charged Creeper. Player heads have a rare chance of being dropped when killed by another player"
+		},
+		{
+			"label": "Zombie, Skeleton, and Creeper heads have a rare chance of being dropped when killed by a player"
+		},
+		{
+			"label": "Steve heads can be found as rare loot in chests in Dungeons, Woodland mansions, Jungle temples, Bastions, and Strongholds"
+		},
+		{
+			"label": "Compatable with Minecraft 1.13 and up"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download for 1.16.2",
+			"file": null
+		},
+		{
+			"label": "Download for 1.16.2 (Plus Renewable Pigstep)",
+			"file": null
+		}
+	]
+}

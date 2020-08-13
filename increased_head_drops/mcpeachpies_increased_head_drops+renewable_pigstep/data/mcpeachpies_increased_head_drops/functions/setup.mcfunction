@@ -1,0 +1,2 @@
+scoreboard objectives add mpp_decap_adv dummy ["",{"text":"Decapitation by Charged Creeper","color":"blue"}]
+tellraw @a[gamemode=!survival,gamemode=!adventure] ["",{"text":"Ran Setup for ","color":"gray"},{"text":"mcpeachpies Increased Head Drops + Renewable Pigstep","italic":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://mcpeachpies.com/datapacks/?increased_head_drops+renewable_pigstep"},"hoverEvent":{"action":"show_text","contents":["",{"text":"mcpeachpies.com/datapacks/?increased_head_drops+renewable_pigstep","color":"gray"}]}}]

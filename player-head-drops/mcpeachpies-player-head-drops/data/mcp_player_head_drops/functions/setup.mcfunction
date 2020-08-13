@@ -1,1 +1,0 @@
-tellraw @a ["",{"text":"[MCP]: mcpeachpies Player Head Drops Installed","color":"gold"}]

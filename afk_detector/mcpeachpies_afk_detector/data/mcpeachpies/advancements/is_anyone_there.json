@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "dead_bush"
+    },
+    "title": "Is anyone there?",
+    "description": "Spend 100 hours away from your keyboard",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcpeachpies:how_long_have_you_been_there",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

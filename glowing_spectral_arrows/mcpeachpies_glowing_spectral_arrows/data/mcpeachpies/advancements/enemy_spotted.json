@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "spectral_arrow"
+    },
+    "title": "Enemy Spotted",
+    "description": "Highlight an entity using a crossbow & spectral arrow"
+  },
+  "parent": "mcpeachpies:root",
+  "criteria": {
+    "crossbow": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "item": {
+          "nbt": "{ChargedProjectiles:[{id:\"minecraft:spectral_arrow\",Count:1b}]}"
+        }
+      }
+    }
+  }
+}
