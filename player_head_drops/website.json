@@ -18,11 +18,11 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": null
+			"file": "dg-mcpeachpies_player_head_drops"
 		},
 		{
 			"label": "Download (Charged Creepers only)",
-			"file": null
+			"file": "dg-mcpeachpies_player_head_drops_creeper_only"
 		}
 	]
 }
