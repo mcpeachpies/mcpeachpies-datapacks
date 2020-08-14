@@ -1,6 +1,7 @@
 {
 	"title": "Reduced Enderman Griefing",
-	"description": "Provent Enderman from picking up world surface blocks",
+	"description_short": "Prevent Enderman from picking up world surface blocks",
+	"description": "Prevent Enderman from pulling apart worlds in active areas",
 	"youtube": null,
 	"icon": "mcpeachpies_reduced_enderman_griefing/pack.png",
 	"list_on_site": true,
@@ -15,7 +16,7 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "dg-mcpeachpies_reduced_enderman_griefing"
+			"file": "/downloads/datapacks/mcpeachpies_reduced_enderman_griefing.zip"
 		}
 	]
 }

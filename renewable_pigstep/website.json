@@ -1,6 +1,7 @@
 {
 	"title": "Renewable Pigstep",
-	"description": "Get Pigstep music discs from Creepers",
+	"description_short": "Get Pigstep music discs from Creepers",
+	"description": "Renewable Pigstep music disc drop from Creepers when shot by a Piglin",
 	"youtube": null,
 	"icon": "mcpeachpies_renewable_pigstep/pack.png",
 	"list_on_site": true,
@@ -15,7 +16,7 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "dg-mcpeachpies_renewable_pigstep"
+			"file": "/downloads/datapacks/mcpeachpies_renewable_pigstep.zip"
 		}
 	]
 }

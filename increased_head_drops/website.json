@@ -1,6 +1,7 @@
 {
 	"title": "Increased Head Drops",
-	"description": "Get in-game mob head drops from Players, Creepers, Skeletons, and Zombies",
+	"description_short": "An additional way to get Creeper, Zombie, Skeleton, and Player head drops",
+	"description": "Creepers, Zombies, Skeletons, and Players gain a rare chance to drop their heads when killed by players",
 	"youtube": null,
 	"list_on_site": true,
 	"icon": "mcpeachpies_increased_head_drops/pack.png",
@@ -21,11 +22,11 @@
 	"downloads": [
 		{
 			"label": "Download for 1.16.2",
-			"file": "dg-mcpeachpies_increased_head_drops"
+			"file": "/downloads/datapacks/mcpeachpies_increased_head_drops.zip"
 		},
 		{
 			"label": "Download for 1.16.2 (Plus Renewable Pigstep)",
-			"file": "dg-mcpeachpies_increased_head_drops_renewable_pigstep"
+			"file": "/downloads/datapacks/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
 		}
 	]
 }

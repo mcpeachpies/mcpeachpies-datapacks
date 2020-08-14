@@ -1,13 +1,11 @@
 {
 	"title": "Increased Shulker Shells",
-	"description": "Creates an additional chance for Shulkers two drop a maximum of 2 shells",
+	"description_short": "Increase the maximum drop rate of Shulker shells",
+	"description": "Add an additional chance for Shulkers to drop a maximum of 2 shells",
 	"youtube": null,
 	"list_on_site": true,
 	"icon": "mcpeachpies_increased_shulker_shells/pack.png",
 	"features": [
-		{
-			"label": "Adds a second Shulker shell drop chance at the same drop rate as a single shell"
-		},
 		{
 			"label": "Adds a second Shulker shell drop chance at the same drop rate as a single shell"
 		},
@@ -18,7 +16,7 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "dg-mcpeachpies_increased_shulker_shells"
+			"file": "/downloads/datapacks/mcpeachpies_increased_shulker_shells.zip"
 		}
 	]
 }

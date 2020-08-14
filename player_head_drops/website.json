@@ -1,6 +1,7 @@
 {
 	"title": "Player Head Drops",
-	"description": "Drop player heads when exploded by a charged Creeper",
+	"description_short": "Drop player heads when exploded by a charged Creeper or player",
+	"description": "Players will drop their head when killed by a charged Creeper or a slim chance when killed by a Player, alternative pack for dropping a head only when killed by a charged Creeper",
 	"youtube": null,
 	"icon": "mcpeachpies_player_head_drops/pack.png",
 	"list_on_site": true,
@@ -18,11 +19,11 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "dg-mcpeachpies_player_head_drops"
+			"file": "/downloads/datapacks/mcpeachpies_player_head_drops.zip"
 		},
 		{
 			"label": "Download (Charged Creepers only)",
-			"file": "dg-mcpeachpies_player_head_drops_creeper_only"
+			"file": "/downloads/datapacks/mcpeachpies_player_head_drops_creeper_only.zip"
 		}
 	]
 }

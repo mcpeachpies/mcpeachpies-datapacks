@@ -1,6 +1,7 @@
 {
 	"title": "AFK Detector",
-	"description": "Detect, announce, and label players who are away from their Keyboards",
+	"description_short": "Detect, announce, and label players who are away from their Keyboards",
+	"description": "Announce and label players who have been away from their keyboards for more than 5 minutes. Trigger command allows for players to instantly go AFK",
 	"youtube": null,
 	"list_on_site": true,
 	"icon": "mcpeachpies_afk_detector/pack.png",
@@ -24,7 +25,7 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "dg-mcpeachpies_afk_detector"
+			"file": "/downloads/datapacks/mcpeachpies_afk_detector.zip"
 		}
 	]
 }

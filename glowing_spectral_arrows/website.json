@@ -1,6 +1,7 @@
 {
 	"title": "Glowing Spectral Arrows",
-	"description": "Fired spectral arrows will glow just as the effect they are tipped with",
+	"description_short": "Shot Spectral Arrows will glow!",
+	"description": "Spectral Arrows that have been short will glow yellow",
 	"youtube": null,
 	"icon": "mcpeachpies_glowing_spectral_arrows/pack.png",
 	"list_on_site": true,
@@ -15,7 +16,7 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "dg-mcpeachpies_glowing_spectral_arrows"
+			"file": "/downloads/datapacks/mcpeachpies_glowing_spectral_arrows.zip"
 		}
 	]
 }
