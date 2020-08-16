@@ -16,7 +16,13 @@
 			"label": "Steve heads can be found as rare loot in chests in Dungeons, Woodland mansions, Jungle temples, Bastions, and Strongholds"
 		},
 		{
+			"label": "Utilises Bastion loot-table changes in Minecraft 1.16.2"
+		},
+		{
 			"label": "Compatable with Minecraft 1.13 and up"
+		},
+		{
+			"label": "Alternative Download for compatablitiy with <a href='/?renewable_pigstep'>Renewable Pigstep<a> (Minecraft 1.16)"
 		}
 	],
 	"downloads": [
