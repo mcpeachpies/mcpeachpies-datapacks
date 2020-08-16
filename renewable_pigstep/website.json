@@ -11,12 +11,19 @@
 		},
 		{
 			"label": "Made in collaberation with Noah"
+		},
+		{
+			"label": "Alternative Download for compatablitiy with Increased Head Drops"
 		}
 	],
 	"downloads": [
 		{
 			"label": "Download",
 			"file": "/downloads/datapacks/mcpeachpies_renewable_pigstep.zip"
+		},
+		{
+			"label": "Download (Plus Increased Head Drops)",
+			"file": "/downloads/datapacks/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
 		}
 	]
 }
