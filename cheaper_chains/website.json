@@ -1,0 +1,22 @@
+{
+	"title": "Cheaper Chains",
+	"description_short": "Increaseses the quality of chains crafted",
+	"description": "Increaseses the quality of chains crafted to 8 per craft",
+	"youtube": null,
+	"icon": "mcpeachpies_cheaper_chains/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Does not change crafting recipe. Increased output to 8 chains from 1 per craft"
+		},
+		{
+			"label": "Made in collaberation with Noahh__"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "/downloads/datapacks/mcpeachpies_cheaper_chains.zip"
+		}
+	]
+}
