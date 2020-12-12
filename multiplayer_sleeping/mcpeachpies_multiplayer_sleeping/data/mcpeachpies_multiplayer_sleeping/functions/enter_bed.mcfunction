@@ -8,4 +8,4 @@ tellraw @a ["",{"selector":"@s"},{"text":" is now sleeping (","color":"gray"},{"
 execute if score value_sleepers mpp_sleep_count >= value_required mpp_sleep_count run schedule function mcpeachpies_multiplayer_sleeping:pass_time 101t
 
 #Scoreboard Migration
-execute as @s run function mcpeachpies_multiplayer_sleeping:scoreboard_migration
+execute as @s[tag=!mpp_sleep_mig] run function mcpeachpies_multiplayer_sleeping:scoreboard_migration
