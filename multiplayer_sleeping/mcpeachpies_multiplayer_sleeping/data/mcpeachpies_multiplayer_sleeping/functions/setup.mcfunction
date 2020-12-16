@@ -1,6 +1,6 @@
 scoreboard objectives add mpp_sleep_count dummy
 scoreboard objectives add mpp_sleep_total dummy
-scoreboard objectives add mpp_sleep_adv dummy
+scoreboard objectives add mpp_sleep_adv dummy ["",{"text":"Total Days Slept","color":"blue"}]
 scoreboard objectives add mpp_sleep_kick trigger ["",{"text":"Kick Sleeping Players","color":"blue"}]
 
 scoreboard players set value_percentage mpp_sleep_count 4

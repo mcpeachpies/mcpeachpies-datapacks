@@ -3,6 +3,8 @@ scoreboard objectives add afk trigger ["",{"text":"Go away from your keyboard","
 scoreboard objectives add mpp_afk_still dummy
 scoreboard objectives add mpp_afk_count dummy
 scoreboard objectives add mpp_afk_total dummy ["",{"text":"Total AFK time (seconds)","color":"blue"}]
+scoreboard objectives add mpp_afk_adv dummy ["",{"text":"Total AFK time (Hours)","color":"blue"}]
+scoreboard objectives add mpp_afk_advc dummy
 
 scoreboard objectives add mpp_afk_x dummy
 scoreboard objectives add mpp_afk_y dummy
