@@ -1,0 +1,33 @@
+name: Compress and Release
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  compress-and-release:
+    name: Compress and release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+        
+        # Credit to Pexien
+      - name: Compress datapacks
+        shell: pwsh
+        run: |
+          $dirs = Get-ChildItem -Directory -Recurse -Depth 1 | Where { !$_.Name.StartsWith(".") -and $_.Name.StartsWith("mcpeachpies") }
+          $dirs | ForEach { Compress-Archive -PassThru -Path "$_/*"  -DestinationPath "$pwd/$($_.Name).zip" }
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: v${{ github.run_id }} ${{ github.event.head_commit.message }}
+          tag_name: v${{ github.run_id }}
+          files: "*.zip"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
