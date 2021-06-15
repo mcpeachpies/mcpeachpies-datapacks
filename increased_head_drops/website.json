@@ -28,11 +28,11 @@
 	"downloads": [
 		{
 			"label": "Download for 1.16.2",
-			"file": "/downloads/datapacks/mcpeachpies_increased_head_drops.zip"
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_head_drops.zip"
 		},
 		{
 			"label": "Download for 1.16.2 (Plus Renewable Pigstep)",
-			"file": "/downloads/datapacks/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
 		}
 	]
 }

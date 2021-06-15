@@ -19,11 +19,11 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "/downloads/datapacks/mcpeachpies_renewable_pigstep.zip"
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_renewable_pigstep.zip"
 		},
 		{
 			"label": "Download (Plus Increased Head Drops)",
-			"file": "/downloads/datapacks/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
 		}
 	]
 }

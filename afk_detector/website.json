@@ -25,7 +25,7 @@
 	"downloads": [
 		{
 			"label": "Download",
-			"file": "/downloads/datapacks/mcpeachpies_afk_detector.zip"
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_afk_detector.zip"
 		}
 	]
 }

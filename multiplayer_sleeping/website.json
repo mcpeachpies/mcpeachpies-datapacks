@@ -24,12 +24,12 @@
 	],
 	"downloads": [
 		{
-			"label": "Download for 1.16",
-			"file": "/downloads/datapacks/mcpeachpies_multiplayer_sleeping.zip"
+			"label": "Download for 1.16+",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_multiplayer_sleeping.zip"
 		},
 		{
 			"label": "Download for 1.15",
-			"file": "/downloads/datapacks/mcpeachpies_multiplayer_sleeping_1_15.zip"
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_multiplayer_sleeping_1_15.zip"
 		}
 	]
 }
