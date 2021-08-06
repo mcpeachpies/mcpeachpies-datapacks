@@ -9,4 +9,5 @@ execute if predicate mcpeachpies_multiplayer_sleeping:thunder_check run weather 
 scoreboard players add @a[tag=mpp_in_bed] mpp_sleep_total 1
 
 #Clock
-schedule function mcpeachpies_multiplayer_sleeping:pass_time_gateway 20t
+function mcpeachpies_multiplayer_sleeping:player_count
+execute if score value_sleepers mpp_sleep_count >= value_required mpp_sleep_count if predicate mcpeachpies_multiplayer_sleeping:night_check run schedule function mcpeachpies_multiplayer_sleeping:pass_time 20t

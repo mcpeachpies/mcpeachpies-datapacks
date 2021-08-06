@@ -3,6 +3,7 @@ scoreboard objectives add mpp_sleep_total dummy
 scoreboard objectives add mpp_sleep_adv dummy ["",{"text":"Total Days Slept","color":"blue"}]
 scoreboard objectives add mpp_sleep_kick trigger ["",{"text":"Kick Sleeping Players","color":"blue"}]
 
+scoreboard players set value_percentage mpp_sleep_count 4
 scoreboard players set value_minimum mpp_sleep_count 1
 
 function mcpeachpies_multiplayer_sleeping:player_count
