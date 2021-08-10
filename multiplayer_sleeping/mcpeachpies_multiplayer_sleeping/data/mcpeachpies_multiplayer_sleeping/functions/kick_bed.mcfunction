@@ -1,3 +1,7 @@
+# triggered from chat message click
+# at @s = all players in bed
+# run from clock
+
 execute if score value_sleepers mpp_sleep_count matches 1.. run tellraw @s ["",{"text":"Kicked ","color":"gray"},{"selector":"@a[tag=mpp_in_bed]"},{"text":" out of bed","color":"gray"}]
 execute if score value_sleepers mpp_sleep_count matches 0 run tellraw @s ["",{"text":"Nobody is currently sleeping","color":"gray"}]
 tellraw @a[tag=mpp_in_bed] ["",{"text":"Kicked out of bed by ","color":"gray"},{"selector":"@s"}]

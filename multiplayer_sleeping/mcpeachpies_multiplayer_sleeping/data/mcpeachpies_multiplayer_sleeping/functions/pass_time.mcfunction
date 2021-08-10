@@ -1,3 +1,5 @@
+# scheduled from enter_bed and pass_time_gateway
+
 #Time Pass
 execute if predicate mcpeachpies_multiplayer_sleeping:night_check run time add 1000t
 
@@ -10,3 +12,5 @@ scoreboard players add @a[tag=mpp_in_bed] mpp_sleep_total 1
 
 #Clock
 schedule function mcpeachpies_multiplayer_sleeping:pass_time_gateway 20t
+
+say pass_time

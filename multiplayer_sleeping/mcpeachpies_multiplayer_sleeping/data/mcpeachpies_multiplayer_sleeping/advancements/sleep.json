@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:slept_in_bed",
+      "conditions": {
+        "location": {
+          "dimension": "minecraft:overworld"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mcpeachpies_multiplayer_sleeping:enter_bed"
+  }
+}
