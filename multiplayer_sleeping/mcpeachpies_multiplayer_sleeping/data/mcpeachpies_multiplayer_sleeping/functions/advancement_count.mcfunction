@@ -1,3 +1,5 @@
+# run from exit_bed
+
 #Add to advancement tracker
 scoreboard players add @s mpp_sleep_adv 1
 
@@ -109,4 +111,4 @@ advancement grant @s[scores={mpp_sleep_adv=46..}] only mcpeachpies:the_courtesy_
 advancement grant @s[scores={mpp_sleep_adv=47..}] only mcpeachpies:the_courtesy_call 47
 advancement grant @s[scores={mpp_sleep_adv=48..}] only mcpeachpies:the_courtesy_call 48
 advancement grant @s[scores={mpp_sleep_adv=49..}] only mcpeachpies:the_courtesy_call 49
-execute as @s[scores={mpp_sleep_adv=50..}] run function mcpeachpies_multiplayer_sleeping:advancement_countbulk
+execute if score @s mpp_sleep_adv matches 50.. run function mcpeachpies_multiplayer_sleeping:advancement_countbulk

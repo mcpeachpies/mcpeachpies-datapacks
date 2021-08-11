@@ -1,4 +1,8 @@
-execute if predicate mcpeachpies_multiplayer_sleeping:morning_check as @s run function mcpeachpies_multiplayer_sleeping:advancement_count
+# player with sleep_since_rest score above zero
+# @s = player out of bed
+# run from clock
+
+execute if predicate mcpeachpies_multiplayer_sleeping:morning_check run function mcpeachpies_multiplayer_sleeping:advancement_count
 
 tag @s remove mpp_in_bed
 function mcpeachpies_multiplayer_sleeping:player_count
