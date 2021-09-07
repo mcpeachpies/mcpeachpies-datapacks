@@ -1,10 +1,7 @@
-# scheduled from enter_bed and pass_time_gateway
-#Time Pass
-execute if predicate mcpeachpies_multiplayer_sleeping:night_check run time add 1000t
-
-#Weather Controls
-execute if predicate mcpeachpies_multiplayer_sleeping:rain_check run weather rain 1
-execute if predicate mcpeachpies_multiplayer_sleeping:thunder_check run weather thunder 1
-
-#Clock
-schedule function mcpeachpies_multiplayer_sleeping:pass_time_gateway 20t
+# run from enter_bed
+#Player Count
+function mcpeachpies_multiplayer_sleeping:player_count
+#Allow sleeping regardless of player count
+execute if score value_sleepers mpp_sleep_count >= value_required mpp_sleep_count run gamerule playersSleepingPercentage 0
+#Reset gamerule
+schedule function mcpeachpies_multiplayer_sleeping:gamerule_reset 1t

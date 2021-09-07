@@ -1,4 +1,4 @@
-#Run from enter_bed, exit_bed, and pass_time_gateway
+#Run from enter_bed, exit_bed, and pass_time_gateway, gamerule_reset
 #Store player sleeping percentage
 execute store result score value_gamerule mpp_sleep_count run gamerule playersSleepingPercentage
 
