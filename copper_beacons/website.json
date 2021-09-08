@@ -1,0 +1,25 @@
+{
+	"title": "Copper Beacons",
+	"description_short": "Create Beacons with Copper Blocks",
+	"description": "Beacon Pyramid can access all types of copper blocks",
+	"youtube": null,
+	"icon": "mcpeachpies_copper_beacons/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "All variations of copper and cut copper blocks are supported, oxidized, weathered, and waxed!"
+		},
+		{
+			"label": "Copper ingots are a valid form of payment for beacon effects"
+		},
+		{
+			"label": "Compatible with Minecraft 1.17 and up"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_copper_beacons.zip"
+		}
+	]
+}
