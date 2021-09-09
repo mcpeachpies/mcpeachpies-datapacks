@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "blue_bed"
+      },
+      "title": "Rise and Shine",
+      "description": "Sleep through the night for the first time",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "mcpeachpies:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "black_bed"
+    },
+    "title": "Night Shift",
+    "description": "Work throughout the night while others sleep",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcpeachpies:late_night",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

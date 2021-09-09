@@ -5,12 +5,12 @@
     },
     "title": "The Wake Up Call",
     "description": "Good morning. You have been in suspension for fifty days.",
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mcpeachpies:root",
+  "parent": "mcpeachpies:rise_and_shine",
   "criteria": {
     "1": {
       "trigger": "minecraft:impossible"

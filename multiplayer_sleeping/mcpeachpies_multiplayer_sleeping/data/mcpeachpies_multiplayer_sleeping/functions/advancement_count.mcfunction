@@ -1,4 +1,7 @@
 # run from exit_bed
+#Other Advancements
+execute as @a[predicate=mcpeachpies_multiplayer_sleeping:in_overworld,gamemode=!spectator] if score @s mpp_sleep_awake matches 20.. run advancement grant @s only mcpeachpies:night_shift
+advancement grant @s[tag=mpp_sleep_advlate] only mcpeachpies:late_night
 
 #Add to advancement tracker
 scoreboard players add @s mpp_sleep_adv 1
@@ -9,6 +12,8 @@ execute unless score @s mpp_sleep_adv = @s mpp_sleep_adv run advancement revoke 
 advancement revoke @s[scores={mpp_sleep_adv=0}] from mcpeachpies:the_wake_up_call
 advancement revoke @s[scores={mpp_sleep_adv=0}] from mcpeachpies:the_courtesy_call
 
+#Rise and Shine
+advancement grant @s[scores={mpp_sleep_adv=1..}] only mcpeachpies:rise_and_shine
 #The Wake Up Call
 advancement grant @s[scores={mpp_sleep_adv=1..}] only mcpeachpies:the_wake_up_call 1
 advancement grant @s[scores={mpp_sleep_adv=2..}] only mcpeachpies:the_wake_up_call 2

@@ -1,8 +1,9 @@
 # player enters bed
 # run from advancement, mcpeachpies_multiplayer_sleeping:sleep
 # revoke advancement for reacquisition
+execute if score value_daytime mpp_sleep_count matches 18000.. run tag @s add mpp_sleep_advlate
 advancement revoke @s only mcpeachpies_multiplayer_sleeping:sleep
-scoreboard players reset @s mpp_sleep_awake
+scoreboard players set @s mpp_sleep_awake 0
 
 execute unless score value_sleepers mpp_sleep_count matches 1.. run schedule function mcpeachpies_multiplayer_sleeping:clock 10t
 
