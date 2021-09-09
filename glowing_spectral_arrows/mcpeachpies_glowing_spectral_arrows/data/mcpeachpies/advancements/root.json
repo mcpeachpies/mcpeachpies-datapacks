@@ -2,7 +2,7 @@
     "display": {
       "icon": {
         "item": "player_head",
-        "nbt": "{SkullOwner:mcpeachpies}"
+        "nbt": "{SkullOwner:\"mcpeachpies\"}"
       },
       "title": "mcpeachpies",
       "description": "mcpeachpies datapack systems",

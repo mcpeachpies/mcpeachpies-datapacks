@@ -1,12 +1,12 @@
 {
   "display": {
     "icon": {
-      "item": "spectral_arrow"
+      "item": "minecraft:ink_sac"
     },
-    "title": "Enemy Spotted",
-    "description": "Shoot an entity and highlight it with a spectral arrow"
+    "title": "Glowing Imposter",
+    "description": "Make a Squid glow using a spectral arrow"
   },
-  "parent": "mcpeachpies:root",
+  "parent": "mcpeachpies:glow_up",
   "criteria": {
     "crossbow": {
       "trigger": "minecraft:player_hurt_entity",
@@ -25,7 +25,16 @@
               "type": "minecraft:spectral_arrow"
             }
           }
-        }
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:squid"
+            }
+          }
+        ]
       }
     }
   }
