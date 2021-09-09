@@ -1,0 +1,31 @@
+{
+	"title": "Protected End Blocks",
+	"description_short": "Prevent The Enderdragon from breaking all end blocks and more",
+	"description": "Prevent The Enderdragon from breaking a wider range of end dimension blocks as well as hard blocks or utility blocks",
+	"youtube": null,
+	"icon": "mcpeachpies_protected_end_blocks/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "The Enderdragon is unable to destroy a wide range of End Dimension blocks including: variants of End stone, Purper, Chorus plants or flowers, Dragon heads and eggs, Ender Chests"
+		},
+		{
+			"label": "Other Protected blocks include all colours of banners and shulker boxes, purple stained glass and panes, all types of signs and Lodestones"
+		},
+		{
+			"label": "Hard blocks such as Netherite blocks, Ancient debris, Beacons plus its pyramid blocks (Iron, Gold, Diamond and Emerald), and Amethyst blocks cannot be destroyed by the dragon"
+		},
+		{
+			"label": "Map making blocks such as the light block have been protected"
+		},
+		{
+			"label": "Compatible with Minecraft 1.13 and up"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_protected_end_blocks.zip"
+		}
+	]
+}
