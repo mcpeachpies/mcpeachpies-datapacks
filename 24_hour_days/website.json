@@ -1,0 +1,34 @@
+{
+	"title": "24 Hour Days",
+	"description_short": "Make days last 24 hours",
+	"description": "Extends the Minecraft day to last 24 hours instead of 20 minutes",
+	"youtube": null,
+	"icon": "mcpeachpies_24_hour_days/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Mathematically adjusts the Minecraft day time to last 24 hours intead of 20 minutes"
+		},
+		{
+			"label": "Perfect for servers that are online 24 hours a day, 7 days a week that want realtime reflected in game"
+		},
+		{
+			"label": "Compatible with <a href=\"/datapacks/?multiplayer_sleeping\" class=\"read-more\">Multiplayer Sleeping<a> to allow for players to skip nights and set time to morning<br />Sleeping is otherwise disabled"
+		},
+		{
+			"label": "Datapack is reliate on accurate tick speed (tps) of your world/server, a laggy server or world with low tps may experience longer days. Ensure you have a constant 20tps for accurate time adjustment"
+		},
+		{
+			"label": "Convert real time to Minecraft time with <a href=\"/tools/minecraft-time\" class=\"read-more\">Time Converter<a> and have your ingame time relfect the real world"
+		},
+		{
+			"label": "Compatible with Minecraft 1.13 and up"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_24_hour_days.zip"
+		}
+	]
+}
