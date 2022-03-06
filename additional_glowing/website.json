@@ -1,0 +1,22 @@
+{
+	"title": "Additional Glowing",
+	"description_short": "Adds more glowing features",
+	"description": "Adds additional gameplay features to utilise the glowing effect and glowing items",
+	"youtube": null,
+	"icon": "mcpeachpies_additional_glowing/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Includes custom advancement for firing a spectral arrow"
+		},
+		{
+			"label": "Compatible with Minecraft 1.14 and up"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_additional_glowing.zip"
+		}
+	]
+}
