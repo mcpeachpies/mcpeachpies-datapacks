@@ -22,7 +22,7 @@
 			"label": "Convert real time to Minecraft time with <a href=\"/tools/minecraft-time\" class=\"read-more\">Time Converter<a> and have your ingame time relfect the real world"
 		},
 		{
-			"label": "Compatible with Minecraft 1.13 and up"
+			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.18"
 		}
 	],
 	"downloads": [

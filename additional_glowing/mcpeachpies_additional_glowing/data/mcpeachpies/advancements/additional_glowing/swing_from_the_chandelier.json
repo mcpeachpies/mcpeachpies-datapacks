@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:glow_berries"
+    },
+    "title": "Swing from the Chandelier",
+    "description": "Climb a Glowing Cave Vine"
+  },
+  "parent": "mcpeachpies:additional_glowing/blinding_lights",
+  "criteria": {
+    "enter_cave_vines_plant": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:cave_vines_plant",
+        "state": {
+          "berries": "true"
+        }
+      }
+    },
+    "enter_cave_vines": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:cave_vines",
+        "state": {
+          "berries": "true"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enter_cave_vines_plant",
+      "enter_cave_vines"
+    ]
+  ]
+}

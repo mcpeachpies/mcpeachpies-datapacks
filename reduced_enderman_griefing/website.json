@@ -10,7 +10,7 @@
 			"label": "Enderman are unable to pickup grass and dirt blocks, netherrack, crimson and warped nylium, sand and gravel"
 		},
 		{
-			"label": "Compatible with Minecraft 1.13 and up"
+			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.18"
 		}
 	],
 	"downloads": [

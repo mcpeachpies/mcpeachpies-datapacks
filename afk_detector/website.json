@@ -19,7 +19,7 @@
 			"label": "Trigger command to instantly go away from your keyboard `/trigger afk`"
 		},
 		{
-			"label": "Compatible with Minecraft 1.13 and up"
+			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.18"
 		}
 	],
 	"downloads": [

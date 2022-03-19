@@ -2,22 +2,23 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:random_chance",
-          "chance": 0.25
-        }
-      ],
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:player_head"
-        }
-      ]
-    },
+    "conditions": [
+      {
+        "condition": "minecraft:random_chance",
+        "chance": 0.25
+      }
+    ],
+    "rolls": 1,
+    "entries": [
+      {
+        "type": "minecraft:item",
+        "name": "minecraft:player_head"
+      }
+    ]
+  },
     {
-      "rolls": 3,
+      "rolls": 3.0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -25,7 +26,8 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 1
+              "count": 1.0,
+              "add": false
             }
           ],
           "name": "minecraft:netherite_ingot"
@@ -36,7 +38,8 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 1
+              "count": 1.0,
+              "add": false
             }
           ],
           "name": "minecraft:ancient_debris"
@@ -47,7 +50,8 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 1
+              "count": 1.0,
+              "add": false
             }
           ],
           "name": "minecraft:netherite_scrap"
@@ -58,7 +62,8 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 2
+              "count": 2.0,
+              "add": false
             }
           ],
           "name": "minecraft:ancient_debris"
@@ -70,9 +75,11 @@
             {
               "function": "minecraft:set_damage",
               "damage": {
+                "type": "minecraft:uniform",
                 "min": 0.8,
                 "max": 1.0
-              }
+              },
+              "add": false
             },
             {
               "function": "minecraft:enchant_randomly"
@@ -87,9 +94,11 @@
             {
               "function": "minecraft:set_damage",
               "damage": {
+                "type": "minecraft:uniform",
                 "min": 0.8,
                 "max": 1.0
-              }
+              },
+              "add": false
             },
             {
               "function": "minecraft:enchant_randomly"
@@ -104,9 +113,11 @@
             {
               "function": "minecraft:set_damage",
               "damage": {
+                "type": "minecraft:uniform",
                 "min": 0.8,
                 "max": 1.0
-              }
+              },
+              "add": false
             },
             {
               "function": "minecraft:enchant_randomly"
@@ -121,9 +132,11 @@
             {
               "function": "minecraft:set_damage",
               "damage": {
+                "type": "minecraft:uniform",
                 "min": 0.8,
                 "max": 1.0
-              }
+              },
+              "add": false
             },
             {
               "function": "minecraft:enchant_randomly"
@@ -138,9 +151,11 @@
             {
               "function": "minecraft:set_damage",
               "damage": {
+                "type": "minecraft:uniform",
                 "min": 0.8,
                 "max": 1.0
-              }
+              },
+              "add": false
             },
             {
               "function": "minecraft:enchant_randomly"
@@ -180,10 +195,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 6.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:diamond"
@@ -194,7 +210,8 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 1
+              "count": 1.0,
+              "add": false
             }
           ],
           "name": "minecraft:enchanted_golden_apple"
@@ -203,10 +220,11 @@
     },
     {
       "rolls": {
+        "type": "minecraft:uniform",
         "min": 3.0,
-        "max": 4.0,
-        "type": "minecraft:uniform"
+        "max": 4.0
       },
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -214,10 +232,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 12.0,
-                "max": 25.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 25.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:spectral_arrow"
@@ -228,10 +247,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 5.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 5.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:gold_block"
@@ -242,10 +262,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 5.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 5.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:iron_block"
@@ -256,10 +277,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 3.0,
-                "max": 9.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 9.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:gold_ingot"
@@ -270,10 +292,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 3.0,
-                "max": 9.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 9.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:iron_ingot"
@@ -284,10 +307,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 3.0,
-                "max": 5.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 5.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:crying_obsidian"
@@ -298,10 +322,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 8.0,
-                "max": 23.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 23.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:quartz"
@@ -312,10 +337,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 5.0,
-                "max": 15.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 15.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:gilded_blackstone"
@@ -326,10 +352,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 3.0,
-                "max": 8.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 8.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:magma_cream"

@@ -10,5 +10,5 @@ execute as @a[tag=mpp_in_bed] at @s run tp @s ~ ~ ~
 #effect give @a[tag=mpp_in_bed] minecraft:resistance 1 255 true
 #effect give @a[tag=mpp_in_bed] minecraft:instant_damage 1 1 true
 
-advancement grant @s[tag=mpp_in_bed] only mcpeachpies:restless_sleeper
+advancement grant @s[tag=mpp_in_bed] only mcpeachpies:multiplayer_sleeping/restless_sleeper
 scoreboard players set @s mpp_sleep_kick 0

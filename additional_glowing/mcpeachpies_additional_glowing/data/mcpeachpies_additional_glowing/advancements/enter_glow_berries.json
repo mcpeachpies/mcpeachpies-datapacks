@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:glow_berries"
+    },
+    "title": "Enter Glow Berries",
+    "description": "",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "mcpeachpies:root",
+  "criteria": {
+    "enter_cave_vines_plant": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:cave_vines_plant",
+        "state": {
+          "berries": "true"
+        }
+      }
+    },
+    "enter_cave_vines": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:cave_vines",
+        "state": {
+          "berries": "true"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enter_cave_vines_plant",
+      "enter_cave_vines"
+    ]
+  ],
+  "rewards": {
+    "function": "mcpeachpies_additional_glowing:enter_glow_berries"
+  }
+}

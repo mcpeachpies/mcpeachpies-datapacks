@@ -8,4 +8,7 @@ scoreboard players set value_-1 mpp_sleep_count -1
 
 function mcpeachpies_multiplayer_sleeping:player_count
 function mcpeachpies_multiplayer_sleeping:clock_trigger
-tellraw @a[gamemode=!survival,gamemode=!adventure] ["",{"text":"Ran Setup for ","color":"gray"},{"text":"mcpeachpies Multiplayer Sleeping","italic":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://mcpeachpies.com/datapacks/?multiplayer_sleeping"},"hoverEvent":{"action":"show_text","contents":["",{"text":"mcpeachpies.com/datapacks/?multiplayer_sleeping","color":"gray"}]}}]
+
+scoreboard players set mpp_sleep_setup mpp_datapacks 1
+
+tellraw @a[gamemode=!survival,gamemode=!adventure] ["",{"text":"Ran Setup for ","color":"gray"},{"text":"mcpeachpies Multiplayer Sleeping","italic":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://mcpeachpies.existencesmp.com/datapacks/?multiplayer_sleeping"},"hoverEvent":{"action":"show_text","contents":["",{"text":"mcpeachpies.existencesmp.com/datapacks/?multiplayer_sleeping","color":"gray"}]}}]

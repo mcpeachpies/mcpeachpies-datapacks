@@ -1,0 +1,23 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:glow_berries"
+      },
+      "title": "A Light Snack",
+      "description": "Munch on some glow berries for a light and healthy snack"
+    },
+    "parent": "mcpeachpies:additional_glowing/swing_from_the_chandelier",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:glow_berries"
+            ]
+          }
+        }
+      }
+    }
+}
+  

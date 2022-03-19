@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "fern"
+      },
+      "title": "How long have you been there?",
+      "description": "Stand so incredibly still, that you think you're invisible",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "mcpeachpies:afk_detector/are_you_still_there",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

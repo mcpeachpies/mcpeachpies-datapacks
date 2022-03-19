@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "gray_bed"
+    },
+    "title": "Late Night",
+    "description": "Stay up late and go to bed after midnight",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcpeachpies:multiplayer_sleeping/restless_sleeper",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

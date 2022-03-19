@@ -7,10 +7,22 @@
 	"list_on_site": true,
 	"features": [
 		{
-			"label": "Includes custom advancement for firing a spectral arrow"
+			"label": "Spectral Arrows will glow yellow when fired"
 		},
 		{
-			"label": "Compatible with Minecraft 1.14 and up"
+			"label": "Piglins with Crossbows will always fire Spectral Arrows"
+		},
+		{
+			"label": "Climbing cave vines with berries growing will cause you to glow"
+		},
+		{
+			"label": "Consuming Glow berries will cause you to glow"
+		},
+		{
+			"label": "Coming in close contact with a glow squid will make the squid to glow"
+		},
+		{
+			"label": "Compatible with Minecraft 1.18 and up"
 		}
 	],
 	"downloads": [

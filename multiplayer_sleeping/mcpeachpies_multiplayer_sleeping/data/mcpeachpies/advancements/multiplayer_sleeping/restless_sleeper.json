@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "red_bed"
+    },
+    "title": "Restless Sleeper",
+    "description": "Kick yourself out of bed",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcpeachpies:multiplayer_sleeping/rise_and_shine",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
