@@ -5,12 +5,12 @@
     },
     "title": "Night Shift",
     "description": "Work throughout the night while others sleep",
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mcpeachpies:multiplayer_sleeping/late_night",
+  "parent": "mcpeachpies:multiplayer_sleeping/rise_and_shine",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:impossible"

@@ -5,12 +5,10 @@ advancement grant @s[tag=mpp_sleep_advlate] only mcpeachpies:multiplayer_sleepin
 
 #Add to advancement tracker
 scoreboard players add @s mpp_sleep_adv 1
+scoreboard players set @s mpp_sleep_since_c 0
+scoreboard players set @s mpp_sleep_since 0
 
-#Debug clean
-execute unless score @s mpp_sleep_adv = @s mpp_sleep_adv run advancement revoke @s from mcpeachpies:multiplayer_sleeping/the_wake_up_call
-execute unless score @s mpp_sleep_adv = @s mpp_sleep_adv run advancement revoke @s from mcpeachpies:multiplayer_sleeping/the_courtesy_call
-advancement revoke @s[scores={mpp_sleep_adv=0}] from mcpeachpies:multiplayer_sleeping/the_wake_up_call
-advancement revoke @s[scores={mpp_sleep_adv=0}] from mcpeachpies:multiplayer_sleeping/the_courtesy_call
+function mcpeachpies_multiplayer_sleeping:advancement_clean
 
 #Rise and Shine
 advancement grant @s[scores={mpp_sleep_adv=1..}] only mcpeachpies:multiplayer_sleeping/rise_and_shine
@@ -116,4 +114,5 @@ advancement grant @s[scores={mpp_sleep_adv=46..}] only mcpeachpies:multiplayer_s
 advancement grant @s[scores={mpp_sleep_adv=47..}] only mcpeachpies:multiplayer_sleeping/the_courtesy_call 47
 advancement grant @s[scores={mpp_sleep_adv=48..}] only mcpeachpies:multiplayer_sleeping/the_courtesy_call 48
 advancement grant @s[scores={mpp_sleep_adv=49..}] only mcpeachpies:multiplayer_sleeping/the_courtesy_call 49
+
 execute if score @s mpp_sleep_adv matches 50.. run function mcpeachpies_multiplayer_sleeping:advancement_countbulk

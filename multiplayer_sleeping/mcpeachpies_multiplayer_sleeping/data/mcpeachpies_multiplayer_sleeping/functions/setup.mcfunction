@@ -1,5 +1,7 @@
 scoreboard objectives add mpp_sleep_count dummy
 scoreboard objectives add mpp_sleep_awake minecraft.custom:time_since_rest
+scoreboard objectives add mpp_sleep_since_c dummy ["",{"text":"Time (Ticks) Since Last Slept","color":"blue"}]
+scoreboard objectives add mpp_sleep_since dummy ["",{"text":"Time (Hours) Since Last Slept","color":"blue"}]
 scoreboard objectives add mpp_sleep_adv dummy ["",{"text":"Total Days Slept","color":"blue"}]
 scoreboard objectives add mpp_sleep_kick trigger ["",{"text":"Kick Sleeping Players","color":"blue"}]
 
