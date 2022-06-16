@@ -18,10 +18,10 @@ scoreboard objectives add mpp_afk_z1 dummy
 scoreboard objectives add mpp_afk_pitch1 dummy
 scoreboard objectives add mpp_afk_yaw1 dummy
 
+scoreboard objectives add mpp_afk_death deathCount
+
 function mcpeachpies_afk_detector:setup_team
 execute as @a[gamemode=!spectator] run function mcpeachpies_afk_detector:check_pos
 
 scoreboard players set mpp_afk_setup mpp_datapacks 1
 tellraw @a[gamemode=!survival,gamemode=!adventure] ["",{"text":"Ran Setup for ","color":"gray"},{"text":"mcpeachpies AFK Detector","italic":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://mcpeachpies.existencesmp.com/datapacks/?afk_detector"},"hoverEvent":{"action":"show_text","contents":["",{"text":"mcpeachpies.existencesmp.com/datapacks/?afk_detector","color":"gray"}]}}]
-
-schedule function mcpeachpies_afk_detector:clock 20t

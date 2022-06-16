@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "large_fern"
+      },
+      "title": "Welcome Back",
+      "description": "Return to your keyboard",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "mcpeachpies:afk_detector/are_you_still_there",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

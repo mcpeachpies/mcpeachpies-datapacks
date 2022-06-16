@@ -3,8 +3,10 @@ team leave @s[team=mpp_afk]
 #team join TEAM @s[team=afk_TEAM]
 #
 #Example:
-#team join Admin @s[team=afk_Admin]
+#team join Staff @s[team=afk_Staff]
 
 tag @s remove mpp_afk
+
+advancement grant @s only mcpeachpies:afk_detector/welcome_back
 scoreboard players set @s mpp_afk_count 0
 tellraw @a ["",{"selector":"@s"},{"text":" is now back at their keyboard","color":"gray"}]
