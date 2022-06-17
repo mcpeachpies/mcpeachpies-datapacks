@@ -8,9 +8,11 @@
 	"features": [
 		{
 			"label": "Adds a second Shulker shell drop chance at the same drop rate as a single shell"
+		},{
+			"label": "Chance of dropping multiple shells increases with looting"
 		},
 		{
-			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.18"
+			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.19"
 		}
 	],
 	"downloads": [

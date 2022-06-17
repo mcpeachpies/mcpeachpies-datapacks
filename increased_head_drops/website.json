@@ -13,13 +13,19 @@
 			"label": "Zombie, Skeleton, and Creeper heads have a rare chance of being dropped when killed by a player"
 		},
 		{
-			"label": "Steve heads can be found as rare loot in chests in Dungeons, Woodland mansions, Jungle temples, Bastions, and Strongholds"
+			"label": "Steve heads can be found as rare loot in chests in Dungeons, Pillager Outposts, Woodland mansions, Jungle temples, Bastions, and Strongholds"
 		},
 		{
-			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.18"
+			"label": "Jungle Temples fire poison tipped arrows"
+		},
+		{
+			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.19"
 		},
 		{
 			"label": "Alternative Download for compatibility with <a href=\"/datapacks/?renewable_pigstep\" class=\"read-more\">Renewable Pigstep<a>"
+		},
+		{
+			"label": "See <a href=\"/datapacks/?player_head_drops\" class=\"read-more\">Player Head Drops<a> for only head drops from players"
 		}
 	],
 	"downloads": [

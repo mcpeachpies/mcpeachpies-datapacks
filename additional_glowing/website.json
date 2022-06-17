@@ -19,10 +19,10 @@
 			"label": "Consuming Glow berries will cause you to glow"
 		},
 		{
-			"label": "Coming in close contact with a glow squid will make the squid to glow"
+			"label": "Coming in close contact with a glow squid will make the squid glow"
 		},
 		{
-			"label": "Compatible with Minecraft 1.18 and up"
+			"label": "Compatible with Minecraft 1.18 and up, last tested on Minecraft 1.19"
 		}
 	],
 	"downloads": [
