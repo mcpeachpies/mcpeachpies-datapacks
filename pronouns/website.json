@@ -1,0 +1,19 @@
+{
+  "title": "Pronouns",
+  "description_short": "Let players express themselves by declaring their pronouns",
+  "description": "Let players express themselves by declaring their pronouns. Players choose from a list of pronouns for display in chat and the player list.",
+  "youtube": null,
+  "list_on_site": null,
+  "icon": "mcpeachpies_pronouns/pack.png",
+  "features": [
+    {
+      "label": "This is a feature"
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download",
+      "file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_pronouns.zip"
+    }
+  ]
+}
