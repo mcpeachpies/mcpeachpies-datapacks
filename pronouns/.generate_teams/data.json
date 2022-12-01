@@ -1,0 +1,22 @@
+{
+  "pronouns": {
+    "single": ["any", "ask", "avoid", "other"],
+    "pairs": [
+      ["he", "him"],
+      ["it", "its"],
+      ["she", "her"],
+      ["they", "them"]
+    ]
+  },
+  "teams": [
+    {
+      "name": "staff"
+    },
+    {
+      "name": "patron"
+    },
+    {
+      "name": "default"
+    }
+  ]
+}
