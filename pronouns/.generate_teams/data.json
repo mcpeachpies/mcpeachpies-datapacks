@@ -6,13 +6,24 @@
   },
   "teams": [
     {
-      "name": "staff"
+      "name": "Staff",
+      "prefix": "🗡",
+      "color": "dark_green"
     },
     {
-      "name": "patron"
+      "name": "StaffPatron",
+      "prefix": "🗡",
+      "color": "red"
     },
     {
-      "name": "default"
+      "name": "Patron",
+      "prefix": "☆",
+      "color": "red"
+    },
+    {
+      "name": "Trusted",
+      "prefix": "",
+      "color": "dark_green"
     }
   ]
 }

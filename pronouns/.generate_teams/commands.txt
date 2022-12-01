@@ -1,0 +1,2112 @@
+team add Staff_any
+team modify Staff_any prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify Staff_any color dark_green
+team add afk_Staff_any
+team modify afk_Staff_any prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify afk_Staff_any color gray
+team add Staff_ask
+team modify Staff_ask prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify Staff_ask color dark_green
+team add afk_Staff_ask
+team modify afk_Staff_ask prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify afk_Staff_ask color gray
+team add Staff_avoid
+team modify Staff_avoid prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify Staff_avoid color dark_green
+team add afk_Staff_avoid
+team modify afk_Staff_avoid prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify afk_Staff_avoid color gray
+team add Staff_other
+team modify Staff_other prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify Staff_other color dark_green
+team add afk_Staff_other
+team modify afk_Staff_other prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify afk_Staff_other color gray
+team add Staff_he_him
+team modify Staff_he_him prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify Staff_he_him color dark_green
+team add afk_Staff_he_him
+team modify afk_Staff_he_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify afk_Staff_he_him color gray
+team add Staff_he_it
+team modify Staff_he_it prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify Staff_he_it color dark_green
+team add afk_Staff_he_it
+team modify afk_Staff_he_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify afk_Staff_he_it color gray
+team add Staff_he_its
+team modify Staff_he_its prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify Staff_he_its color dark_green
+team add afk_Staff_he_its
+team modify afk_Staff_he_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify afk_Staff_he_its color gray
+team add Staff_he_she
+team modify Staff_he_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify Staff_he_she color dark_green
+team add afk_Staff_he_she
+team modify afk_Staff_he_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify afk_Staff_he_she color gray
+team add Staff_he_her
+team modify Staff_he_her prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify Staff_he_her color dark_green
+team add afk_Staff_he_her
+team modify afk_Staff_he_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify afk_Staff_he_her color gray
+team add Staff_he_they
+team modify Staff_he_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify Staff_he_they color dark_green
+team add afk_Staff_he_they
+team modify afk_Staff_he_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify afk_Staff_he_they color gray
+team add Staff_he_them
+team modify Staff_he_them prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify Staff_he_them color dark_green
+team add afk_Staff_he_them
+team modify afk_Staff_he_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify afk_Staff_he_them color gray
+team add Staff_him_he
+team modify Staff_him_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify Staff_him_he color dark_green
+team add afk_Staff_him_he
+team modify afk_Staff_him_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify afk_Staff_him_he color gray
+team add Staff_him_it
+team modify Staff_him_it prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify Staff_him_it color dark_green
+team add afk_Staff_him_it
+team modify afk_Staff_him_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify afk_Staff_him_it color gray
+team add Staff_him_its
+team modify Staff_him_its prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify Staff_him_its color dark_green
+team add afk_Staff_him_its
+team modify afk_Staff_him_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify afk_Staff_him_its color gray
+team add Staff_him_she
+team modify Staff_him_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify Staff_him_she color dark_green
+team add afk_Staff_him_she
+team modify afk_Staff_him_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify afk_Staff_him_she color gray
+team add Staff_him_her
+team modify Staff_him_her prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify Staff_him_her color dark_green
+team add afk_Staff_him_her
+team modify afk_Staff_him_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify afk_Staff_him_her color gray
+team add Staff_him_they
+team modify Staff_him_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify Staff_him_they color dark_green
+team add afk_Staff_him_they
+team modify afk_Staff_him_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify afk_Staff_him_they color gray
+team add Staff_him_them
+team modify Staff_him_them prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify Staff_him_them color dark_green
+team add afk_Staff_him_them
+team modify afk_Staff_him_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify afk_Staff_him_them color gray
+team add Staff_it_he
+team modify Staff_it_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify Staff_it_he color dark_green
+team add afk_Staff_it_he
+team modify afk_Staff_it_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify afk_Staff_it_he color gray
+team add Staff_it_him
+team modify Staff_it_him prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify Staff_it_him color dark_green
+team add afk_Staff_it_him
+team modify afk_Staff_it_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify afk_Staff_it_him color gray
+team add Staff_it_its
+team modify Staff_it_its prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify Staff_it_its color dark_green
+team add afk_Staff_it_its
+team modify afk_Staff_it_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify afk_Staff_it_its color gray
+team add Staff_it_she
+team modify Staff_it_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify Staff_it_she color dark_green
+team add afk_Staff_it_she
+team modify afk_Staff_it_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify afk_Staff_it_she color gray
+team add Staff_it_her
+team modify Staff_it_her prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify Staff_it_her color dark_green
+team add afk_Staff_it_her
+team modify afk_Staff_it_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify afk_Staff_it_her color gray
+team add Staff_it_they
+team modify Staff_it_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify Staff_it_they color dark_green
+team add afk_Staff_it_they
+team modify afk_Staff_it_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify afk_Staff_it_they color gray
+team add Staff_it_them
+team modify Staff_it_them prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify Staff_it_them color dark_green
+team add afk_Staff_it_them
+team modify afk_Staff_it_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify afk_Staff_it_them color gray
+team add Staff_its_he
+team modify Staff_its_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify Staff_its_he color dark_green
+team add afk_Staff_its_he
+team modify afk_Staff_its_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify afk_Staff_its_he color gray
+team add Staff_its_him
+team modify Staff_its_him prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify Staff_its_him color dark_green
+team add afk_Staff_its_him
+team modify afk_Staff_its_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify afk_Staff_its_him color gray
+team add Staff_its_it
+team modify Staff_its_it prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify Staff_its_it color dark_green
+team add afk_Staff_its_it
+team modify afk_Staff_its_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify afk_Staff_its_it color gray
+team add Staff_its_she
+team modify Staff_its_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify Staff_its_she color dark_green
+team add afk_Staff_its_she
+team modify afk_Staff_its_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify afk_Staff_its_she color gray
+team add Staff_its_her
+team modify Staff_its_her prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify Staff_its_her color dark_green
+team add afk_Staff_its_her
+team modify afk_Staff_its_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify afk_Staff_its_her color gray
+team add Staff_its_they
+team modify Staff_its_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify Staff_its_they color dark_green
+team add afk_Staff_its_they
+team modify afk_Staff_its_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify afk_Staff_its_they color gray
+team add Staff_its_them
+team modify Staff_its_them prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify Staff_its_them color dark_green
+team add afk_Staff_its_them
+team modify afk_Staff_its_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify afk_Staff_its_them color gray
+team add Staff_she_he
+team modify Staff_she_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify Staff_she_he color dark_green
+team add afk_Staff_she_he
+team modify afk_Staff_she_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify afk_Staff_she_he color gray
+team add Staff_she_him
+team modify Staff_she_him prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify Staff_she_him color dark_green
+team add afk_Staff_she_him
+team modify afk_Staff_she_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify afk_Staff_she_him color gray
+team add Staff_she_it
+team modify Staff_she_it prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify Staff_she_it color dark_green
+team add afk_Staff_she_it
+team modify afk_Staff_she_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify afk_Staff_she_it color gray
+team add Staff_she_its
+team modify Staff_she_its prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify Staff_she_its color dark_green
+team add afk_Staff_she_its
+team modify afk_Staff_she_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify afk_Staff_she_its color gray
+team add Staff_she_her
+team modify Staff_she_her prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify Staff_she_her color dark_green
+team add afk_Staff_she_her
+team modify afk_Staff_she_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify afk_Staff_she_her color gray
+team add Staff_she_they
+team modify Staff_she_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify Staff_she_they color dark_green
+team add afk_Staff_she_they
+team modify afk_Staff_she_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify afk_Staff_she_they color gray
+team add Staff_she_them
+team modify Staff_she_them prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify Staff_she_them color dark_green
+team add afk_Staff_she_them
+team modify afk_Staff_she_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify afk_Staff_she_them color gray
+team add Staff_her_he
+team modify Staff_her_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify Staff_her_he color dark_green
+team add afk_Staff_her_he
+team modify afk_Staff_her_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify afk_Staff_her_he color gray
+team add Staff_her_him
+team modify Staff_her_him prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify Staff_her_him color dark_green
+team add afk_Staff_her_him
+team modify afk_Staff_her_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify afk_Staff_her_him color gray
+team add Staff_her_it
+team modify Staff_her_it prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify Staff_her_it color dark_green
+team add afk_Staff_her_it
+team modify afk_Staff_her_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify afk_Staff_her_it color gray
+team add Staff_her_its
+team modify Staff_her_its prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify Staff_her_its color dark_green
+team add afk_Staff_her_its
+team modify afk_Staff_her_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify afk_Staff_her_its color gray
+team add Staff_her_she
+team modify Staff_her_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify Staff_her_she color dark_green
+team add afk_Staff_her_she
+team modify afk_Staff_her_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify afk_Staff_her_she color gray
+team add Staff_her_they
+team modify Staff_her_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify Staff_her_they color dark_green
+team add afk_Staff_her_they
+team modify afk_Staff_her_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify afk_Staff_her_they color gray
+team add Staff_her_them
+team modify Staff_her_them prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify Staff_her_them color dark_green
+team add afk_Staff_her_them
+team modify afk_Staff_her_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify afk_Staff_her_them color gray
+team add Staff_they_he
+team modify Staff_they_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify Staff_they_he color dark_green
+team add afk_Staff_they_he
+team modify afk_Staff_they_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify afk_Staff_they_he color gray
+team add Staff_they_him
+team modify Staff_they_him prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify Staff_they_him color dark_green
+team add afk_Staff_they_him
+team modify afk_Staff_they_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify afk_Staff_they_him color gray
+team add Staff_they_it
+team modify Staff_they_it prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify Staff_they_it color dark_green
+team add afk_Staff_they_it
+team modify afk_Staff_they_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify afk_Staff_they_it color gray
+team add Staff_they_its
+team modify Staff_they_its prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify Staff_they_its color dark_green
+team add afk_Staff_they_its
+team modify afk_Staff_they_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify afk_Staff_they_its color gray
+team add Staff_they_she
+team modify Staff_they_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify Staff_they_she color dark_green
+team add afk_Staff_they_she
+team modify afk_Staff_they_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify afk_Staff_they_she color gray
+team add Staff_they_her
+team modify Staff_they_her prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify Staff_they_her color dark_green
+team add afk_Staff_they_her
+team modify afk_Staff_they_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify afk_Staff_they_her color gray
+team add Staff_they_them
+team modify Staff_they_them prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify Staff_they_them color dark_green
+team add afk_Staff_they_them
+team modify afk_Staff_they_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify afk_Staff_they_them color gray
+team add Staff_them_he
+team modify Staff_them_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify Staff_them_he color dark_green
+team add afk_Staff_them_he
+team modify afk_Staff_them_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify afk_Staff_them_he color gray
+team add Staff_them_him
+team modify Staff_them_him prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify Staff_them_him color dark_green
+team add afk_Staff_them_him
+team modify afk_Staff_them_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify afk_Staff_them_him color gray
+team add Staff_them_it
+team modify Staff_them_it prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify Staff_them_it color dark_green
+team add afk_Staff_them_it
+team modify afk_Staff_them_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify afk_Staff_them_it color gray
+team add Staff_them_its
+team modify Staff_them_its prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify Staff_them_its color dark_green
+team add afk_Staff_them_its
+team modify afk_Staff_them_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify afk_Staff_them_its color gray
+team add Staff_them_she
+team modify Staff_them_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify Staff_them_she color dark_green
+team add afk_Staff_them_she
+team modify afk_Staff_them_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify afk_Staff_them_she color gray
+team add Staff_them_her
+team modify Staff_them_her prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify Staff_them_her color dark_green
+team add afk_Staff_them_her
+team modify afk_Staff_them_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify afk_Staff_them_her color gray
+team add Staff_them_they
+team modify Staff_them_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify Staff_them_they color dark_green
+team add afk_Staff_them_they
+team modify afk_Staff_them_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify afk_Staff_them_they color gray
+team add Staff_he_she_they
+team modify Staff_he_she_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify Staff_he_she_they color dark_green
+team add afk_Staff_he_she_they
+team modify afk_Staff_he_she_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify afk_Staff_he_she_they color gray
+team add Staff_he_they_she
+team modify Staff_he_they_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify Staff_he_they_she color dark_green
+team add afk_Staff_he_they_she
+team modify afk_Staff_he_they_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify afk_Staff_he_they_she color gray
+team add Staff_she_he_they
+team modify Staff_she_he_they prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify Staff_she_he_they color dark_green
+team add afk_Staff_she_he_they
+team modify afk_Staff_she_he_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify afk_Staff_she_he_they color gray
+team add Staff_she_they_he
+team modify Staff_she_they_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify Staff_she_they_he color dark_green
+team add afk_Staff_she_they_he
+team modify afk_Staff_she_they_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify afk_Staff_she_they_he color gray
+team add Staff_they_he_she
+team modify Staff_they_he_she prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify Staff_they_he_she color dark_green
+team add afk_Staff_they_he_she
+team modify afk_Staff_they_he_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify afk_Staff_they_he_she color gray
+team add Staff_they_she_he
+team modify Staff_they_she_he prefix ["",{"text":"🗡 ","color":"dark_green"}]
+team modify Staff_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify Staff_they_she_he color dark_green
+team add afk_Staff_they_she_he
+team modify afk_Staff_they_she_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_Staff_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify afk_Staff_they_she_he color gray
+team add StaffPatron_any
+team modify StaffPatron_any prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify StaffPatron_any color red
+team add afk_StaffPatron_any
+team modify afk_StaffPatron_any prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify afk_StaffPatron_any color gray
+team add StaffPatron_ask
+team modify StaffPatron_ask prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify StaffPatron_ask color red
+team add afk_StaffPatron_ask
+team modify afk_StaffPatron_ask prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify afk_StaffPatron_ask color gray
+team add StaffPatron_avoid
+team modify StaffPatron_avoid prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify StaffPatron_avoid color red
+team add afk_StaffPatron_avoid
+team modify afk_StaffPatron_avoid prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify afk_StaffPatron_avoid color gray
+team add StaffPatron_other
+team modify StaffPatron_other prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify StaffPatron_other color red
+team add afk_StaffPatron_other
+team modify afk_StaffPatron_other prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify afk_StaffPatron_other color gray
+team add StaffPatron_he_him
+team modify StaffPatron_he_him prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify StaffPatron_he_him color red
+team add afk_StaffPatron_he_him
+team modify afk_StaffPatron_he_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify afk_StaffPatron_he_him color gray
+team add StaffPatron_he_it
+team modify StaffPatron_he_it prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify StaffPatron_he_it color red
+team add afk_StaffPatron_he_it
+team modify afk_StaffPatron_he_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify afk_StaffPatron_he_it color gray
+team add StaffPatron_he_its
+team modify StaffPatron_he_its prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify StaffPatron_he_its color red
+team add afk_StaffPatron_he_its
+team modify afk_StaffPatron_he_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify afk_StaffPatron_he_its color gray
+team add StaffPatron_he_she
+team modify StaffPatron_he_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify StaffPatron_he_she color red
+team add afk_StaffPatron_he_she
+team modify afk_StaffPatron_he_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify afk_StaffPatron_he_she color gray
+team add StaffPatron_he_her
+team modify StaffPatron_he_her prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify StaffPatron_he_her color red
+team add afk_StaffPatron_he_her
+team modify afk_StaffPatron_he_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify afk_StaffPatron_he_her color gray
+team add StaffPatron_he_they
+team modify StaffPatron_he_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify StaffPatron_he_they color red
+team add afk_StaffPatron_he_they
+team modify afk_StaffPatron_he_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify afk_StaffPatron_he_they color gray
+team add StaffPatron_he_them
+team modify StaffPatron_he_them prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify StaffPatron_he_them color red
+team add afk_StaffPatron_he_them
+team modify afk_StaffPatron_he_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify afk_StaffPatron_he_them color gray
+team add StaffPatron_him_he
+team modify StaffPatron_him_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify StaffPatron_him_he color red
+team add afk_StaffPatron_him_he
+team modify afk_StaffPatron_him_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify afk_StaffPatron_him_he color gray
+team add StaffPatron_him_it
+team modify StaffPatron_him_it prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify StaffPatron_him_it color red
+team add afk_StaffPatron_him_it
+team modify afk_StaffPatron_him_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify afk_StaffPatron_him_it color gray
+team add StaffPatron_him_its
+team modify StaffPatron_him_its prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify StaffPatron_him_its color red
+team add afk_StaffPatron_him_its
+team modify afk_StaffPatron_him_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify afk_StaffPatron_him_its color gray
+team add StaffPatron_him_she
+team modify StaffPatron_him_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify StaffPatron_him_she color red
+team add afk_StaffPatron_him_she
+team modify afk_StaffPatron_him_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify afk_StaffPatron_him_she color gray
+team add StaffPatron_him_her
+team modify StaffPatron_him_her prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify StaffPatron_him_her color red
+team add afk_StaffPatron_him_her
+team modify afk_StaffPatron_him_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify afk_StaffPatron_him_her color gray
+team add StaffPatron_him_they
+team modify StaffPatron_him_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify StaffPatron_him_they color red
+team add afk_StaffPatron_him_they
+team modify afk_StaffPatron_him_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify afk_StaffPatron_him_they color gray
+team add StaffPatron_him_them
+team modify StaffPatron_him_them prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify StaffPatron_him_them color red
+team add afk_StaffPatron_him_them
+team modify afk_StaffPatron_him_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify afk_StaffPatron_him_them color gray
+team add StaffPatron_it_he
+team modify StaffPatron_it_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify StaffPatron_it_he color red
+team add afk_StaffPatron_it_he
+team modify afk_StaffPatron_it_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify afk_StaffPatron_it_he color gray
+team add StaffPatron_it_him
+team modify StaffPatron_it_him prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify StaffPatron_it_him color red
+team add afk_StaffPatron_it_him
+team modify afk_StaffPatron_it_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify afk_StaffPatron_it_him color gray
+team add StaffPatron_it_its
+team modify StaffPatron_it_its prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify StaffPatron_it_its color red
+team add afk_StaffPatron_it_its
+team modify afk_StaffPatron_it_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify afk_StaffPatron_it_its color gray
+team add StaffPatron_it_she
+team modify StaffPatron_it_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify StaffPatron_it_she color red
+team add afk_StaffPatron_it_she
+team modify afk_StaffPatron_it_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify afk_StaffPatron_it_she color gray
+team add StaffPatron_it_her
+team modify StaffPatron_it_her prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify StaffPatron_it_her color red
+team add afk_StaffPatron_it_her
+team modify afk_StaffPatron_it_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify afk_StaffPatron_it_her color gray
+team add StaffPatron_it_they
+team modify StaffPatron_it_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify StaffPatron_it_they color red
+team add afk_StaffPatron_it_they
+team modify afk_StaffPatron_it_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify afk_StaffPatron_it_they color gray
+team add StaffPatron_it_them
+team modify StaffPatron_it_them prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify StaffPatron_it_them color red
+team add afk_StaffPatron_it_them
+team modify afk_StaffPatron_it_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify afk_StaffPatron_it_them color gray
+team add StaffPatron_its_he
+team modify StaffPatron_its_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify StaffPatron_its_he color red
+team add afk_StaffPatron_its_he
+team modify afk_StaffPatron_its_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify afk_StaffPatron_its_he color gray
+team add StaffPatron_its_him
+team modify StaffPatron_its_him prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify StaffPatron_its_him color red
+team add afk_StaffPatron_its_him
+team modify afk_StaffPatron_its_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify afk_StaffPatron_its_him color gray
+team add StaffPatron_its_it
+team modify StaffPatron_its_it prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify StaffPatron_its_it color red
+team add afk_StaffPatron_its_it
+team modify afk_StaffPatron_its_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify afk_StaffPatron_its_it color gray
+team add StaffPatron_its_she
+team modify StaffPatron_its_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify StaffPatron_its_she color red
+team add afk_StaffPatron_its_she
+team modify afk_StaffPatron_its_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify afk_StaffPatron_its_she color gray
+team add StaffPatron_its_her
+team modify StaffPatron_its_her prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify StaffPatron_its_her color red
+team add afk_StaffPatron_its_her
+team modify afk_StaffPatron_its_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify afk_StaffPatron_its_her color gray
+team add StaffPatron_its_they
+team modify StaffPatron_its_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify StaffPatron_its_they color red
+team add afk_StaffPatron_its_they
+team modify afk_StaffPatron_its_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify afk_StaffPatron_its_they color gray
+team add StaffPatron_its_them
+team modify StaffPatron_its_them prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify StaffPatron_its_them color red
+team add afk_StaffPatron_its_them
+team modify afk_StaffPatron_its_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify afk_StaffPatron_its_them color gray
+team add StaffPatron_she_he
+team modify StaffPatron_she_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify StaffPatron_she_he color red
+team add afk_StaffPatron_she_he
+team modify afk_StaffPatron_she_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify afk_StaffPatron_she_he color gray
+team add StaffPatron_she_him
+team modify StaffPatron_she_him prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify StaffPatron_she_him color red
+team add afk_StaffPatron_she_him
+team modify afk_StaffPatron_she_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify afk_StaffPatron_she_him color gray
+team add StaffPatron_she_it
+team modify StaffPatron_she_it prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify StaffPatron_she_it color red
+team add afk_StaffPatron_she_it
+team modify afk_StaffPatron_she_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify afk_StaffPatron_she_it color gray
+team add StaffPatron_she_its
+team modify StaffPatron_she_its prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify StaffPatron_she_its color red
+team add afk_StaffPatron_she_its
+team modify afk_StaffPatron_she_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify afk_StaffPatron_she_its color gray
+team add StaffPatron_she_her
+team modify StaffPatron_she_her prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify StaffPatron_she_her color red
+team add afk_StaffPatron_she_her
+team modify afk_StaffPatron_she_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify afk_StaffPatron_she_her color gray
+team add StaffPatron_she_they
+team modify StaffPatron_she_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify StaffPatron_she_they color red
+team add afk_StaffPatron_she_they
+team modify afk_StaffPatron_she_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify afk_StaffPatron_she_they color gray
+team add StaffPatron_she_them
+team modify StaffPatron_she_them prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify StaffPatron_she_them color red
+team add afk_StaffPatron_she_them
+team modify afk_StaffPatron_she_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify afk_StaffPatron_she_them color gray
+team add StaffPatron_her_he
+team modify StaffPatron_her_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify StaffPatron_her_he color red
+team add afk_StaffPatron_her_he
+team modify afk_StaffPatron_her_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify afk_StaffPatron_her_he color gray
+team add StaffPatron_her_him
+team modify StaffPatron_her_him prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify StaffPatron_her_him color red
+team add afk_StaffPatron_her_him
+team modify afk_StaffPatron_her_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify afk_StaffPatron_her_him color gray
+team add StaffPatron_her_it
+team modify StaffPatron_her_it prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify StaffPatron_her_it color red
+team add afk_StaffPatron_her_it
+team modify afk_StaffPatron_her_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify afk_StaffPatron_her_it color gray
+team add StaffPatron_her_its
+team modify StaffPatron_her_its prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify StaffPatron_her_its color red
+team add afk_StaffPatron_her_its
+team modify afk_StaffPatron_her_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify afk_StaffPatron_her_its color gray
+team add StaffPatron_her_she
+team modify StaffPatron_her_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify StaffPatron_her_she color red
+team add afk_StaffPatron_her_she
+team modify afk_StaffPatron_her_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify afk_StaffPatron_her_she color gray
+team add StaffPatron_her_they
+team modify StaffPatron_her_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify StaffPatron_her_they color red
+team add afk_StaffPatron_her_they
+team modify afk_StaffPatron_her_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify afk_StaffPatron_her_they color gray
+team add StaffPatron_her_them
+team modify StaffPatron_her_them prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify StaffPatron_her_them color red
+team add afk_StaffPatron_her_them
+team modify afk_StaffPatron_her_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify afk_StaffPatron_her_them color gray
+team add StaffPatron_they_he
+team modify StaffPatron_they_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify StaffPatron_they_he color red
+team add afk_StaffPatron_they_he
+team modify afk_StaffPatron_they_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify afk_StaffPatron_they_he color gray
+team add StaffPatron_they_him
+team modify StaffPatron_they_him prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify StaffPatron_they_him color red
+team add afk_StaffPatron_they_him
+team modify afk_StaffPatron_they_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify afk_StaffPatron_they_him color gray
+team add StaffPatron_they_it
+team modify StaffPatron_they_it prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify StaffPatron_they_it color red
+team add afk_StaffPatron_they_it
+team modify afk_StaffPatron_they_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify afk_StaffPatron_they_it color gray
+team add StaffPatron_they_its
+team modify StaffPatron_they_its prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify StaffPatron_they_its color red
+team add afk_StaffPatron_they_its
+team modify afk_StaffPatron_they_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify afk_StaffPatron_they_its color gray
+team add StaffPatron_they_she
+team modify StaffPatron_they_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify StaffPatron_they_she color red
+team add afk_StaffPatron_they_she
+team modify afk_StaffPatron_they_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify afk_StaffPatron_they_she color gray
+team add StaffPatron_they_her
+team modify StaffPatron_they_her prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify StaffPatron_they_her color red
+team add afk_StaffPatron_they_her
+team modify afk_StaffPatron_they_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify afk_StaffPatron_they_her color gray
+team add StaffPatron_they_them
+team modify StaffPatron_they_them prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify StaffPatron_they_them color red
+team add afk_StaffPatron_they_them
+team modify afk_StaffPatron_they_them prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify afk_StaffPatron_they_them color gray
+team add StaffPatron_them_he
+team modify StaffPatron_them_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify StaffPatron_them_he color red
+team add afk_StaffPatron_them_he
+team modify afk_StaffPatron_them_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify afk_StaffPatron_them_he color gray
+team add StaffPatron_them_him
+team modify StaffPatron_them_him prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify StaffPatron_them_him color red
+team add afk_StaffPatron_them_him
+team modify afk_StaffPatron_them_him prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify afk_StaffPatron_them_him color gray
+team add StaffPatron_them_it
+team modify StaffPatron_them_it prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify StaffPatron_them_it color red
+team add afk_StaffPatron_them_it
+team modify afk_StaffPatron_them_it prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify afk_StaffPatron_them_it color gray
+team add StaffPatron_them_its
+team modify StaffPatron_them_its prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify StaffPatron_them_its color red
+team add afk_StaffPatron_them_its
+team modify afk_StaffPatron_them_its prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify afk_StaffPatron_them_its color gray
+team add StaffPatron_them_she
+team modify StaffPatron_them_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify StaffPatron_them_she color red
+team add afk_StaffPatron_them_she
+team modify afk_StaffPatron_them_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify afk_StaffPatron_them_she color gray
+team add StaffPatron_them_her
+team modify StaffPatron_them_her prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify StaffPatron_them_her color red
+team add afk_StaffPatron_them_her
+team modify afk_StaffPatron_them_her prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify afk_StaffPatron_them_her color gray
+team add StaffPatron_them_they
+team modify StaffPatron_them_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify StaffPatron_them_they color red
+team add afk_StaffPatron_them_they
+team modify afk_StaffPatron_them_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify afk_StaffPatron_them_they color gray
+team add StaffPatron_he_she_they
+team modify StaffPatron_he_she_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify StaffPatron_he_she_they color red
+team add afk_StaffPatron_he_she_they
+team modify afk_StaffPatron_he_she_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify afk_StaffPatron_he_she_they color gray
+team add StaffPatron_he_they_she
+team modify StaffPatron_he_they_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify StaffPatron_he_they_she color red
+team add afk_StaffPatron_he_they_she
+team modify afk_StaffPatron_he_they_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify afk_StaffPatron_he_they_she color gray
+team add StaffPatron_she_he_they
+team modify StaffPatron_she_he_they prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify StaffPatron_she_he_they color red
+team add afk_StaffPatron_she_he_they
+team modify afk_StaffPatron_she_he_they prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify afk_StaffPatron_she_he_they color gray
+team add StaffPatron_she_they_he
+team modify StaffPatron_she_they_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify StaffPatron_she_they_he color red
+team add afk_StaffPatron_she_they_he
+team modify afk_StaffPatron_she_they_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify afk_StaffPatron_she_they_he color gray
+team add StaffPatron_they_he_she
+team modify StaffPatron_they_he_she prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify StaffPatron_they_he_she color red
+team add afk_StaffPatron_they_he_she
+team modify afk_StaffPatron_they_he_she prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify afk_StaffPatron_they_he_she color gray
+team add StaffPatron_they_she_he
+team modify StaffPatron_they_she_he prefix ["",{"text":"🗡 ","color":"red"}]
+team modify StaffPatron_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify StaffPatron_they_she_he color red
+team add afk_StaffPatron_they_she_he
+team modify afk_StaffPatron_they_she_he prefix ["",{"text":"🗡 ","color":"gray"}]
+team modify afk_StaffPatron_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify afk_StaffPatron_they_she_he color gray
+team add Patron_any
+team modify Patron_any prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify Patron_any color red
+team add afk_Patron_any
+team modify afk_Patron_any prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify afk_Patron_any color gray
+team add Patron_ask
+team modify Patron_ask prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify Patron_ask color red
+team add afk_Patron_ask
+team modify afk_Patron_ask prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify afk_Patron_ask color gray
+team add Patron_avoid
+team modify Patron_avoid prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify Patron_avoid color red
+team add afk_Patron_avoid
+team modify afk_Patron_avoid prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify afk_Patron_avoid color gray
+team add Patron_other
+team modify Patron_other prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify Patron_other color red
+team add afk_Patron_other
+team modify afk_Patron_other prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify afk_Patron_other color gray
+team add Patron_he_him
+team modify Patron_he_him prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify Patron_he_him color red
+team add afk_Patron_he_him
+team modify afk_Patron_he_him prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify afk_Patron_he_him color gray
+team add Patron_he_it
+team modify Patron_he_it prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify Patron_he_it color red
+team add afk_Patron_he_it
+team modify afk_Patron_he_it prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify afk_Patron_he_it color gray
+team add Patron_he_its
+team modify Patron_he_its prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify Patron_he_its color red
+team add afk_Patron_he_its
+team modify afk_Patron_he_its prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify afk_Patron_he_its color gray
+team add Patron_he_she
+team modify Patron_he_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify Patron_he_she color red
+team add afk_Patron_he_she
+team modify afk_Patron_he_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify afk_Patron_he_she color gray
+team add Patron_he_her
+team modify Patron_he_her prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify Patron_he_her color red
+team add afk_Patron_he_her
+team modify afk_Patron_he_her prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify afk_Patron_he_her color gray
+team add Patron_he_they
+team modify Patron_he_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify Patron_he_they color red
+team add afk_Patron_he_they
+team modify afk_Patron_he_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify afk_Patron_he_they color gray
+team add Patron_he_them
+team modify Patron_he_them prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify Patron_he_them color red
+team add afk_Patron_he_them
+team modify afk_Patron_he_them prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify afk_Patron_he_them color gray
+team add Patron_him_he
+team modify Patron_him_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify Patron_him_he color red
+team add afk_Patron_him_he
+team modify afk_Patron_him_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify afk_Patron_him_he color gray
+team add Patron_him_it
+team modify Patron_him_it prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify Patron_him_it color red
+team add afk_Patron_him_it
+team modify afk_Patron_him_it prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify afk_Patron_him_it color gray
+team add Patron_him_its
+team modify Patron_him_its prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify Patron_him_its color red
+team add afk_Patron_him_its
+team modify afk_Patron_him_its prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify afk_Patron_him_its color gray
+team add Patron_him_she
+team modify Patron_him_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify Patron_him_she color red
+team add afk_Patron_him_she
+team modify afk_Patron_him_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify afk_Patron_him_she color gray
+team add Patron_him_her
+team modify Patron_him_her prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify Patron_him_her color red
+team add afk_Patron_him_her
+team modify afk_Patron_him_her prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify afk_Patron_him_her color gray
+team add Patron_him_they
+team modify Patron_him_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify Patron_him_they color red
+team add afk_Patron_him_they
+team modify afk_Patron_him_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify afk_Patron_him_they color gray
+team add Patron_him_them
+team modify Patron_him_them prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify Patron_him_them color red
+team add afk_Patron_him_them
+team modify afk_Patron_him_them prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify afk_Patron_him_them color gray
+team add Patron_it_he
+team modify Patron_it_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify Patron_it_he color red
+team add afk_Patron_it_he
+team modify afk_Patron_it_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify afk_Patron_it_he color gray
+team add Patron_it_him
+team modify Patron_it_him prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify Patron_it_him color red
+team add afk_Patron_it_him
+team modify afk_Patron_it_him prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify afk_Patron_it_him color gray
+team add Patron_it_its
+team modify Patron_it_its prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify Patron_it_its color red
+team add afk_Patron_it_its
+team modify afk_Patron_it_its prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify afk_Patron_it_its color gray
+team add Patron_it_she
+team modify Patron_it_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify Patron_it_she color red
+team add afk_Patron_it_she
+team modify afk_Patron_it_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify afk_Patron_it_she color gray
+team add Patron_it_her
+team modify Patron_it_her prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify Patron_it_her color red
+team add afk_Patron_it_her
+team modify afk_Patron_it_her prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify afk_Patron_it_her color gray
+team add Patron_it_they
+team modify Patron_it_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify Patron_it_they color red
+team add afk_Patron_it_they
+team modify afk_Patron_it_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify afk_Patron_it_they color gray
+team add Patron_it_them
+team modify Patron_it_them prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify Patron_it_them color red
+team add afk_Patron_it_them
+team modify afk_Patron_it_them prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify afk_Patron_it_them color gray
+team add Patron_its_he
+team modify Patron_its_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify Patron_its_he color red
+team add afk_Patron_its_he
+team modify afk_Patron_its_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify afk_Patron_its_he color gray
+team add Patron_its_him
+team modify Patron_its_him prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify Patron_its_him color red
+team add afk_Patron_its_him
+team modify afk_Patron_its_him prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify afk_Patron_its_him color gray
+team add Patron_its_it
+team modify Patron_its_it prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify Patron_its_it color red
+team add afk_Patron_its_it
+team modify afk_Patron_its_it prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify afk_Patron_its_it color gray
+team add Patron_its_she
+team modify Patron_its_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify Patron_its_she color red
+team add afk_Patron_its_she
+team modify afk_Patron_its_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify afk_Patron_its_she color gray
+team add Patron_its_her
+team modify Patron_its_her prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify Patron_its_her color red
+team add afk_Patron_its_her
+team modify afk_Patron_its_her prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify afk_Patron_its_her color gray
+team add Patron_its_they
+team modify Patron_its_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify Patron_its_they color red
+team add afk_Patron_its_they
+team modify afk_Patron_its_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify afk_Patron_its_they color gray
+team add Patron_its_them
+team modify Patron_its_them prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify Patron_its_them color red
+team add afk_Patron_its_them
+team modify afk_Patron_its_them prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify afk_Patron_its_them color gray
+team add Patron_she_he
+team modify Patron_she_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify Patron_she_he color red
+team add afk_Patron_she_he
+team modify afk_Patron_she_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify afk_Patron_she_he color gray
+team add Patron_she_him
+team modify Patron_she_him prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify Patron_she_him color red
+team add afk_Patron_she_him
+team modify afk_Patron_she_him prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify afk_Patron_she_him color gray
+team add Patron_she_it
+team modify Patron_she_it prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify Patron_she_it color red
+team add afk_Patron_she_it
+team modify afk_Patron_she_it prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify afk_Patron_she_it color gray
+team add Patron_she_its
+team modify Patron_she_its prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify Patron_she_its color red
+team add afk_Patron_she_its
+team modify afk_Patron_she_its prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify afk_Patron_she_its color gray
+team add Patron_she_her
+team modify Patron_she_her prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify Patron_she_her color red
+team add afk_Patron_she_her
+team modify afk_Patron_she_her prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify afk_Patron_she_her color gray
+team add Patron_she_they
+team modify Patron_she_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify Patron_she_they color red
+team add afk_Patron_she_they
+team modify afk_Patron_she_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify afk_Patron_she_they color gray
+team add Patron_she_them
+team modify Patron_she_them prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify Patron_she_them color red
+team add afk_Patron_she_them
+team modify afk_Patron_she_them prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify afk_Patron_she_them color gray
+team add Patron_her_he
+team modify Patron_her_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify Patron_her_he color red
+team add afk_Patron_her_he
+team modify afk_Patron_her_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify afk_Patron_her_he color gray
+team add Patron_her_him
+team modify Patron_her_him prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify Patron_her_him color red
+team add afk_Patron_her_him
+team modify afk_Patron_her_him prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify afk_Patron_her_him color gray
+team add Patron_her_it
+team modify Patron_her_it prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify Patron_her_it color red
+team add afk_Patron_her_it
+team modify afk_Patron_her_it prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify afk_Patron_her_it color gray
+team add Patron_her_its
+team modify Patron_her_its prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify Patron_her_its color red
+team add afk_Patron_her_its
+team modify afk_Patron_her_its prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify afk_Patron_her_its color gray
+team add Patron_her_she
+team modify Patron_her_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify Patron_her_she color red
+team add afk_Patron_her_she
+team modify afk_Patron_her_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify afk_Patron_her_she color gray
+team add Patron_her_they
+team modify Patron_her_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify Patron_her_they color red
+team add afk_Patron_her_they
+team modify afk_Patron_her_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify afk_Patron_her_they color gray
+team add Patron_her_them
+team modify Patron_her_them prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify Patron_her_them color red
+team add afk_Patron_her_them
+team modify afk_Patron_her_them prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify afk_Patron_her_them color gray
+team add Patron_they_he
+team modify Patron_they_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify Patron_they_he color red
+team add afk_Patron_they_he
+team modify afk_Patron_they_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify afk_Patron_they_he color gray
+team add Patron_they_him
+team modify Patron_they_him prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify Patron_they_him color red
+team add afk_Patron_they_him
+team modify afk_Patron_they_him prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify afk_Patron_they_him color gray
+team add Patron_they_it
+team modify Patron_they_it prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify Patron_they_it color red
+team add afk_Patron_they_it
+team modify afk_Patron_they_it prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify afk_Patron_they_it color gray
+team add Patron_they_its
+team modify Patron_they_its prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify Patron_they_its color red
+team add afk_Patron_they_its
+team modify afk_Patron_they_its prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify afk_Patron_they_its color gray
+team add Patron_they_she
+team modify Patron_they_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify Patron_they_she color red
+team add afk_Patron_they_she
+team modify afk_Patron_they_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify afk_Patron_they_she color gray
+team add Patron_they_her
+team modify Patron_they_her prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify Patron_they_her color red
+team add afk_Patron_they_her
+team modify afk_Patron_they_her prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify afk_Patron_they_her color gray
+team add Patron_they_them
+team modify Patron_they_them prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify Patron_they_them color red
+team add afk_Patron_they_them
+team modify afk_Patron_they_them prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify afk_Patron_they_them color gray
+team add Patron_them_he
+team modify Patron_them_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify Patron_them_he color red
+team add afk_Patron_them_he
+team modify afk_Patron_them_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify afk_Patron_them_he color gray
+team add Patron_them_him
+team modify Patron_them_him prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify Patron_them_him color red
+team add afk_Patron_them_him
+team modify afk_Patron_them_him prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify afk_Patron_them_him color gray
+team add Patron_them_it
+team modify Patron_them_it prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify Patron_them_it color red
+team add afk_Patron_them_it
+team modify afk_Patron_them_it prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify afk_Patron_them_it color gray
+team add Patron_them_its
+team modify Patron_them_its prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify Patron_them_its color red
+team add afk_Patron_them_its
+team modify afk_Patron_them_its prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify afk_Patron_them_its color gray
+team add Patron_them_she
+team modify Patron_them_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify Patron_them_she color red
+team add afk_Patron_them_she
+team modify afk_Patron_them_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify afk_Patron_them_she color gray
+team add Patron_them_her
+team modify Patron_them_her prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify Patron_them_her color red
+team add afk_Patron_them_her
+team modify afk_Patron_them_her prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify afk_Patron_them_her color gray
+team add Patron_them_they
+team modify Patron_them_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify Patron_them_they color red
+team add afk_Patron_them_they
+team modify afk_Patron_them_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify afk_Patron_them_they color gray
+team add Patron_he_she_they
+team modify Patron_he_she_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify Patron_he_she_they color red
+team add afk_Patron_he_she_they
+team modify afk_Patron_he_she_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify afk_Patron_he_she_they color gray
+team add Patron_he_they_she
+team modify Patron_he_they_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify Patron_he_they_she color red
+team add afk_Patron_he_they_she
+team modify afk_Patron_he_they_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify afk_Patron_he_they_she color gray
+team add Patron_she_he_they
+team modify Patron_she_he_they prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify Patron_she_he_they color red
+team add afk_Patron_she_he_they
+team modify afk_Patron_she_he_they prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify afk_Patron_she_he_they color gray
+team add Patron_she_they_he
+team modify Patron_she_they_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify Patron_she_they_he color red
+team add afk_Patron_she_they_he
+team modify afk_Patron_she_they_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify afk_Patron_she_they_he color gray
+team add Patron_they_he_she
+team modify Patron_they_he_she prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify Patron_they_he_she color red
+team add afk_Patron_they_he_she
+team modify afk_Patron_they_he_she prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify afk_Patron_they_he_she color gray
+team add Patron_they_she_he
+team modify Patron_they_she_he prefix ["",{"text":"☆ ","color":"red"}]
+team modify Patron_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify Patron_they_she_he color red
+team add afk_Patron_they_she_he
+team modify afk_Patron_they_she_he prefix ["",{"text":"☆ ","color":"gray"}]
+team modify afk_Patron_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify afk_Patron_they_she_he color gray
+team add Trusted_any
+team modify Trusted_any prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify Trusted_any color dark_green
+team add afk_Trusted_any
+team modify afk_Trusted_any prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_any suffix ["",{"text":" [any]","color":"gray"}]
+team modify afk_Trusted_any color gray
+team add Trusted_ask
+team modify Trusted_ask prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify Trusted_ask color dark_green
+team add afk_Trusted_ask
+team modify afk_Trusted_ask prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_ask suffix ["",{"text":" [ask]","color":"gray"}]
+team modify afk_Trusted_ask color gray
+team add Trusted_avoid
+team modify Trusted_avoid prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify Trusted_avoid color dark_green
+team add afk_Trusted_avoid
+team modify afk_Trusted_avoid prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_avoid suffix ["",{"text":" [avoid]","color":"gray"}]
+team modify afk_Trusted_avoid color gray
+team add Trusted_other
+team modify Trusted_other prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify Trusted_other color dark_green
+team add afk_Trusted_other
+team modify afk_Trusted_other prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_other suffix ["",{"text":" [other]","color":"gray"}]
+team modify afk_Trusted_other color gray
+team add Trusted_he_him
+team modify Trusted_he_him prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify Trusted_he_him color dark_green
+team add afk_Trusted_he_him
+team modify afk_Trusted_he_him prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_him suffix ["",{"text":" [he/him]","color":"gray"}]
+team modify afk_Trusted_he_him color gray
+team add Trusted_he_it
+team modify Trusted_he_it prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify Trusted_he_it color dark_green
+team add afk_Trusted_he_it
+team modify afk_Trusted_he_it prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_it suffix ["",{"text":" [he/it]","color":"gray"}]
+team modify afk_Trusted_he_it color gray
+team add Trusted_he_its
+team modify Trusted_he_its prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify Trusted_he_its color dark_green
+team add afk_Trusted_he_its
+team modify afk_Trusted_he_its prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_its suffix ["",{"text":" [he/its]","color":"gray"}]
+team modify afk_Trusted_he_its color gray
+team add Trusted_he_she
+team modify Trusted_he_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify Trusted_he_she color dark_green
+team add afk_Trusted_he_she
+team modify afk_Trusted_he_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_she suffix ["",{"text":" [he/she]","color":"gray"}]
+team modify afk_Trusted_he_she color gray
+team add Trusted_he_her
+team modify Trusted_he_her prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify Trusted_he_her color dark_green
+team add afk_Trusted_he_her
+team modify afk_Trusted_he_her prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_her suffix ["",{"text":" [he/her]","color":"gray"}]
+team modify afk_Trusted_he_her color gray
+team add Trusted_he_they
+team modify Trusted_he_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify Trusted_he_they color dark_green
+team add afk_Trusted_he_they
+team modify afk_Trusted_he_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_they suffix ["",{"text":" [he/they]","color":"gray"}]
+team modify afk_Trusted_he_they color gray
+team add Trusted_he_them
+team modify Trusted_he_them prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify Trusted_he_them color dark_green
+team add afk_Trusted_he_them
+team modify afk_Trusted_he_them prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_them suffix ["",{"text":" [he/them]","color":"gray"}]
+team modify afk_Trusted_he_them color gray
+team add Trusted_him_he
+team modify Trusted_him_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify Trusted_him_he color dark_green
+team add afk_Trusted_him_he
+team modify afk_Trusted_him_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_him_he suffix ["",{"text":" [him/he]","color":"gray"}]
+team modify afk_Trusted_him_he color gray
+team add Trusted_him_it
+team modify Trusted_him_it prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify Trusted_him_it color dark_green
+team add afk_Trusted_him_it
+team modify afk_Trusted_him_it prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_him_it suffix ["",{"text":" [him/it]","color":"gray"}]
+team modify afk_Trusted_him_it color gray
+team add Trusted_him_its
+team modify Trusted_him_its prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify Trusted_him_its color dark_green
+team add afk_Trusted_him_its
+team modify afk_Trusted_him_its prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_him_its suffix ["",{"text":" [him/its]","color":"gray"}]
+team modify afk_Trusted_him_its color gray
+team add Trusted_him_she
+team modify Trusted_him_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify Trusted_him_she color dark_green
+team add afk_Trusted_him_she
+team modify afk_Trusted_him_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_him_she suffix ["",{"text":" [him/she]","color":"gray"}]
+team modify afk_Trusted_him_she color gray
+team add Trusted_him_her
+team modify Trusted_him_her prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify Trusted_him_her color dark_green
+team add afk_Trusted_him_her
+team modify afk_Trusted_him_her prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_him_her suffix ["",{"text":" [him/her]","color":"gray"}]
+team modify afk_Trusted_him_her color gray
+team add Trusted_him_they
+team modify Trusted_him_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify Trusted_him_they color dark_green
+team add afk_Trusted_him_they
+team modify afk_Trusted_him_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_him_they suffix ["",{"text":" [him/they]","color":"gray"}]
+team modify afk_Trusted_him_they color gray
+team add Trusted_him_them
+team modify Trusted_him_them prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify Trusted_him_them color dark_green
+team add afk_Trusted_him_them
+team modify afk_Trusted_him_them prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_him_them suffix ["",{"text":" [him/them]","color":"gray"}]
+team modify afk_Trusted_him_them color gray
+team add Trusted_it_he
+team modify Trusted_it_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify Trusted_it_he color dark_green
+team add afk_Trusted_it_he
+team modify afk_Trusted_it_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_it_he suffix ["",{"text":" [it/he]","color":"gray"}]
+team modify afk_Trusted_it_he color gray
+team add Trusted_it_him
+team modify Trusted_it_him prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify Trusted_it_him color dark_green
+team add afk_Trusted_it_him
+team modify afk_Trusted_it_him prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_it_him suffix ["",{"text":" [it/him]","color":"gray"}]
+team modify afk_Trusted_it_him color gray
+team add Trusted_it_its
+team modify Trusted_it_its prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify Trusted_it_its color dark_green
+team add afk_Trusted_it_its
+team modify afk_Trusted_it_its prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_it_its suffix ["",{"text":" [it/its]","color":"gray"}]
+team modify afk_Trusted_it_its color gray
+team add Trusted_it_she
+team modify Trusted_it_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify Trusted_it_she color dark_green
+team add afk_Trusted_it_she
+team modify afk_Trusted_it_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_it_she suffix ["",{"text":" [it/she]","color":"gray"}]
+team modify afk_Trusted_it_she color gray
+team add Trusted_it_her
+team modify Trusted_it_her prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify Trusted_it_her color dark_green
+team add afk_Trusted_it_her
+team modify afk_Trusted_it_her prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_it_her suffix ["",{"text":" [it/her]","color":"gray"}]
+team modify afk_Trusted_it_her color gray
+team add Trusted_it_they
+team modify Trusted_it_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify Trusted_it_they color dark_green
+team add afk_Trusted_it_they
+team modify afk_Trusted_it_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_it_they suffix ["",{"text":" [it/they]","color":"gray"}]
+team modify afk_Trusted_it_they color gray
+team add Trusted_it_them
+team modify Trusted_it_them prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify Trusted_it_them color dark_green
+team add afk_Trusted_it_them
+team modify afk_Trusted_it_them prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_it_them suffix ["",{"text":" [it/them]","color":"gray"}]
+team modify afk_Trusted_it_them color gray
+team add Trusted_its_he
+team modify Trusted_its_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify Trusted_its_he color dark_green
+team add afk_Trusted_its_he
+team modify afk_Trusted_its_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_its_he suffix ["",{"text":" [its/he]","color":"gray"}]
+team modify afk_Trusted_its_he color gray
+team add Trusted_its_him
+team modify Trusted_its_him prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify Trusted_its_him color dark_green
+team add afk_Trusted_its_him
+team modify afk_Trusted_its_him prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_its_him suffix ["",{"text":" [its/him]","color":"gray"}]
+team modify afk_Trusted_its_him color gray
+team add Trusted_its_it
+team modify Trusted_its_it prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify Trusted_its_it color dark_green
+team add afk_Trusted_its_it
+team modify afk_Trusted_its_it prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_its_it suffix ["",{"text":" [its/it]","color":"gray"}]
+team modify afk_Trusted_its_it color gray
+team add Trusted_its_she
+team modify Trusted_its_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify Trusted_its_she color dark_green
+team add afk_Trusted_its_she
+team modify afk_Trusted_its_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_its_she suffix ["",{"text":" [its/she]","color":"gray"}]
+team modify afk_Trusted_its_she color gray
+team add Trusted_its_her
+team modify Trusted_its_her prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify Trusted_its_her color dark_green
+team add afk_Trusted_its_her
+team modify afk_Trusted_its_her prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_its_her suffix ["",{"text":" [its/her]","color":"gray"}]
+team modify afk_Trusted_its_her color gray
+team add Trusted_its_they
+team modify Trusted_its_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify Trusted_its_they color dark_green
+team add afk_Trusted_its_they
+team modify afk_Trusted_its_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_its_they suffix ["",{"text":" [its/they]","color":"gray"}]
+team modify afk_Trusted_its_they color gray
+team add Trusted_its_them
+team modify Trusted_its_them prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify Trusted_its_them color dark_green
+team add afk_Trusted_its_them
+team modify afk_Trusted_its_them prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_its_them suffix ["",{"text":" [its/them]","color":"gray"}]
+team modify afk_Trusted_its_them color gray
+team add Trusted_she_he
+team modify Trusted_she_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify Trusted_she_he color dark_green
+team add afk_Trusted_she_he
+team modify afk_Trusted_she_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_he suffix ["",{"text":" [she/he]","color":"gray"}]
+team modify afk_Trusted_she_he color gray
+team add Trusted_she_him
+team modify Trusted_she_him prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify Trusted_she_him color dark_green
+team add afk_Trusted_she_him
+team modify afk_Trusted_she_him prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_him suffix ["",{"text":" [she/him]","color":"gray"}]
+team modify afk_Trusted_she_him color gray
+team add Trusted_she_it
+team modify Trusted_she_it prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify Trusted_she_it color dark_green
+team add afk_Trusted_she_it
+team modify afk_Trusted_she_it prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_it suffix ["",{"text":" [she/it]","color":"gray"}]
+team modify afk_Trusted_she_it color gray
+team add Trusted_she_its
+team modify Trusted_she_its prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify Trusted_she_its color dark_green
+team add afk_Trusted_she_its
+team modify afk_Trusted_she_its prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_its suffix ["",{"text":" [she/its]","color":"gray"}]
+team modify afk_Trusted_she_its color gray
+team add Trusted_she_her
+team modify Trusted_she_her prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify Trusted_she_her color dark_green
+team add afk_Trusted_she_her
+team modify afk_Trusted_she_her prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_her suffix ["",{"text":" [she/her]","color":"gray"}]
+team modify afk_Trusted_she_her color gray
+team add Trusted_she_they
+team modify Trusted_she_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify Trusted_she_they color dark_green
+team add afk_Trusted_she_they
+team modify afk_Trusted_she_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_they suffix ["",{"text":" [she/they]","color":"gray"}]
+team modify afk_Trusted_she_they color gray
+team add Trusted_she_them
+team modify Trusted_she_them prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify Trusted_she_them color dark_green
+team add afk_Trusted_she_them
+team modify afk_Trusted_she_them prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_them suffix ["",{"text":" [she/them]","color":"gray"}]
+team modify afk_Trusted_she_them color gray
+team add Trusted_her_he
+team modify Trusted_her_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify Trusted_her_he color dark_green
+team add afk_Trusted_her_he
+team modify afk_Trusted_her_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_her_he suffix ["",{"text":" [her/he]","color":"gray"}]
+team modify afk_Trusted_her_he color gray
+team add Trusted_her_him
+team modify Trusted_her_him prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify Trusted_her_him color dark_green
+team add afk_Trusted_her_him
+team modify afk_Trusted_her_him prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_her_him suffix ["",{"text":" [her/him]","color":"gray"}]
+team modify afk_Trusted_her_him color gray
+team add Trusted_her_it
+team modify Trusted_her_it prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify Trusted_her_it color dark_green
+team add afk_Trusted_her_it
+team modify afk_Trusted_her_it prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_her_it suffix ["",{"text":" [her/it]","color":"gray"}]
+team modify afk_Trusted_her_it color gray
+team add Trusted_her_its
+team modify Trusted_her_its prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify Trusted_her_its color dark_green
+team add afk_Trusted_her_its
+team modify afk_Trusted_her_its prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_her_its suffix ["",{"text":" [her/its]","color":"gray"}]
+team modify afk_Trusted_her_its color gray
+team add Trusted_her_she
+team modify Trusted_her_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify Trusted_her_she color dark_green
+team add afk_Trusted_her_she
+team modify afk_Trusted_her_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_her_she suffix ["",{"text":" [her/she]","color":"gray"}]
+team modify afk_Trusted_her_she color gray
+team add Trusted_her_they
+team modify Trusted_her_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify Trusted_her_they color dark_green
+team add afk_Trusted_her_they
+team modify afk_Trusted_her_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_her_they suffix ["",{"text":" [her/they]","color":"gray"}]
+team modify afk_Trusted_her_they color gray
+team add Trusted_her_them
+team modify Trusted_her_them prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify Trusted_her_them color dark_green
+team add afk_Trusted_her_them
+team modify afk_Trusted_her_them prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_her_them suffix ["",{"text":" [her/them]","color":"gray"}]
+team modify afk_Trusted_her_them color gray
+team add Trusted_they_he
+team modify Trusted_they_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify Trusted_they_he color dark_green
+team add afk_Trusted_they_he
+team modify afk_Trusted_they_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_he suffix ["",{"text":" [they/he]","color":"gray"}]
+team modify afk_Trusted_they_he color gray
+team add Trusted_they_him
+team modify Trusted_they_him prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify Trusted_they_him color dark_green
+team add afk_Trusted_they_him
+team modify afk_Trusted_they_him prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_him suffix ["",{"text":" [they/him]","color":"gray"}]
+team modify afk_Trusted_they_him color gray
+team add Trusted_they_it
+team modify Trusted_they_it prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify Trusted_they_it color dark_green
+team add afk_Trusted_they_it
+team modify afk_Trusted_they_it prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_it suffix ["",{"text":" [they/it]","color":"gray"}]
+team modify afk_Trusted_they_it color gray
+team add Trusted_they_its
+team modify Trusted_they_its prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify Trusted_they_its color dark_green
+team add afk_Trusted_they_its
+team modify afk_Trusted_they_its prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_its suffix ["",{"text":" [they/its]","color":"gray"}]
+team modify afk_Trusted_they_its color gray
+team add Trusted_they_she
+team modify Trusted_they_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify Trusted_they_she color dark_green
+team add afk_Trusted_they_she
+team modify afk_Trusted_they_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
+team modify afk_Trusted_they_she color gray
+team add Trusted_they_her
+team modify Trusted_they_her prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify Trusted_they_her color dark_green
+team add afk_Trusted_they_her
+team modify afk_Trusted_they_her prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
+team modify afk_Trusted_they_her color gray
+team add Trusted_they_them
+team modify Trusted_they_them prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify Trusted_they_them color dark_green
+team add afk_Trusted_they_them
+team modify afk_Trusted_they_them prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team modify afk_Trusted_they_them color gray
+team add Trusted_them_he
+team modify Trusted_them_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify Trusted_them_he color dark_green
+team add afk_Trusted_them_he
+team modify afk_Trusted_them_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
+team modify afk_Trusted_them_he color gray
+team add Trusted_them_him
+team modify Trusted_them_him prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify Trusted_them_him color dark_green
+team add afk_Trusted_them_him
+team modify afk_Trusted_them_him prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_them_him suffix ["",{"text":" [them/him]","color":"gray"}]
+team modify afk_Trusted_them_him color gray
+team add Trusted_them_it
+team modify Trusted_them_it prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify Trusted_them_it color dark_green
+team add afk_Trusted_them_it
+team modify afk_Trusted_them_it prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_them_it suffix ["",{"text":" [them/it]","color":"gray"}]
+team modify afk_Trusted_them_it color gray
+team add Trusted_them_its
+team modify Trusted_them_its prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify Trusted_them_its color dark_green
+team add afk_Trusted_them_its
+team modify afk_Trusted_them_its prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_them_its suffix ["",{"text":" [them/its]","color":"gray"}]
+team modify afk_Trusted_them_its color gray
+team add Trusted_them_she
+team modify Trusted_them_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify Trusted_them_she color dark_green
+team add afk_Trusted_them_she
+team modify afk_Trusted_them_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
+team modify afk_Trusted_them_she color gray
+team add Trusted_them_her
+team modify Trusted_them_her prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify Trusted_them_her color dark_green
+team add afk_Trusted_them_her
+team modify afk_Trusted_them_her prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
+team modify afk_Trusted_them_her color gray
+team add Trusted_them_they
+team modify Trusted_them_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify Trusted_them_they color dark_green
+team add afk_Trusted_them_they
+team modify afk_Trusted_them_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
+team modify afk_Trusted_them_they color gray
+team add Trusted_he_she_they
+team modify Trusted_he_she_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify Trusted_he_she_they color dark_green
+team add afk_Trusted_he_she_they
+team modify afk_Trusted_he_she_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team modify afk_Trusted_he_she_they color gray
+team add Trusted_he_they_she
+team modify Trusted_he_they_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify Trusted_he_they_she color dark_green
+team add afk_Trusted_he_they_she
+team modify afk_Trusted_he_they_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team modify afk_Trusted_he_they_she color gray
+team add Trusted_she_he_they
+team modify Trusted_she_he_they prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify Trusted_she_he_they color dark_green
+team add afk_Trusted_she_he_they
+team modify afk_Trusted_she_he_they prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team modify afk_Trusted_she_he_they color gray
+team add Trusted_she_they_he
+team modify Trusted_she_they_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify Trusted_she_they_he color dark_green
+team add afk_Trusted_she_they_he
+team modify afk_Trusted_she_they_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team modify afk_Trusted_she_they_he color gray
+team add Trusted_they_he_she
+team modify Trusted_they_he_she prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify Trusted_they_he_she color dark_green
+team add afk_Trusted_they_he_she
+team modify afk_Trusted_they_he_she prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team modify afk_Trusted_they_he_she color gray
+team add Trusted_they_she_he
+team modify Trusted_they_she_he prefix ["",{"text":" ","color":"dark_green"}]
+team modify Trusted_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify Trusted_they_she_he color dark_green
+team add afk_Trusted_they_she_he
+team modify afk_Trusted_they_she_he prefix ["",{"text":" ","color":"gray"}]
+team modify afk_Trusted_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team modify afk_Trusted_they_she_he color gray
