@@ -1,6 +1,6 @@
 import data from "../data.json" assert { type: "json" };
 
-const commands: string[] = [];
+const setupTeams: string[] = [];
 
 function createTeam(
   name: string,
@@ -8,14 +8,14 @@ function createTeam(
   suffix: string,
   color: string
 ) {
-  commands.push(`team add ${name}`);
-  commands.push(
+  setupTeams.push(`team add ${name}`);
+  setupTeams.push(
     `team modify ${name} prefix ["",{"text":"${prefix} ","color":"${color}"}]`
   );
-  commands.push(
+  setupTeams.push(
     `team modify ${name} suffix ["",{"text":"${suffix}","color":"gray"}]`
   );
-  commands.push(`team modify ${name} color ${color}`);
+  setupTeams.push(`team modify ${name} color ${color}`);
 }
 
 [...data.teams.values()].forEach((team) => {
@@ -73,5 +73,8 @@ function createTeam(
   });
 });
 
-console.log([...commands.values()]);
-Deno.writeTextFile("./commands.txt", [...commands.values()].join("\n"));
+console.log([...setupTeams.values()]);
+Deno.writeTextFile(
+  "./out/setup_team.mcfunction",
+  [...setupTeams.values()].join("\n")
+);
