@@ -7,7 +7,7 @@
   "icon": "mcpeachpies_pronouns/pack.png",
   "features": [
     {
-      "label": "Players can choose from a list of pronouns by running `/trigger pronouns [set <page>]`"
+      "label": "Players can choose from a list of pronouns by running `/trigger pronouns [set &lt;page&gt;]`"
     },
     {
       "label": "Pronouns will display next to the player's name, in the player list, and chat messages"

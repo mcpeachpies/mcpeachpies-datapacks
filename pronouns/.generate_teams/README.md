@@ -11,6 +11,6 @@ deno run --allow-read --allow-write src/index.ts
 
 ## Using Output
 
-- The `out/exi` directory contains the `setup_team` function for Pronouns, Existence SMP Handler, & AFK Detector compatibility.
-- The `out/afk` directory contains the `setup_team` function for Pronouns & AFK Detector compatibility.
-- The `out` directory contains the `setup_team` function for Pronouns by itself.
+- The `out/exi` directory contains the functions for Existence SMP Handler & AFK Detector compatibility.
+- The `out/afk` directory contains the functions for AFK Detector compatibility.
+- The `out` directory contains the functions for Pronouns by itself.
