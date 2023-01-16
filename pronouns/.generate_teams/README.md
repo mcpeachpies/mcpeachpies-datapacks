@@ -6,7 +6,7 @@
 2. Ensure [Deno](https://deno.land/) is installed and run:
 
 ```sh
-deno run --allow-write src/index.ts
+deno run --allow-read --allow-write src/index.ts
 ```
 
 ## Using Output
