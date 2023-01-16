@@ -1,0 +1,29 @@
+{
+  "pronouns": {
+    "single": ["any", "ask", "avoid", "other"],
+    "pairs": ["he", "him", "it", "its", "she", "her", "they", "them"],
+    "triples": ["he", "she", "they", "it"]
+  },
+  "teams": [
+    {
+      "name": "Staff",
+      "prefix": "🗡",
+      "color": "dark_green"
+    },
+    {
+      "name": "StaffPatron",
+      "prefix": "🗡",
+      "color": "red"
+    },
+    {
+      "name": "Patron",
+      "prefix": "☆",
+      "color": "red"
+    },
+    {
+      "name": "Trusted",
+      "prefix": "",
+      "color": "dark_green"
+    }
+  ]
+}
