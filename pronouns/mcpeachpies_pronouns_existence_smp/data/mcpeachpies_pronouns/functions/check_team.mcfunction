@@ -339,4 +339,4 @@ team join Trusted_it_she_they @s[scores={mpp_pronouns_select=82},tag=!mpp_afk,ta
 team join Trusted_it_they_he @s[scores={mpp_pronouns_select=83},tag=!mpp_afk,tag=pronouns_Trusted]
 team join Trusted_it_they_she @s[scores={mpp_pronouns_select=84},tag=!mpp_afk,tag=pronouns_Trusted]
 team join Trusted @s[scores={mpp_pronouns_select=85},tag=!mpp_afk,tag=pronouns_Trusted]
-scoreboard players set @a[scores={mpp_pronouns_select=1..}] mpp_pronouns_select 0
+scoreboard players set @s[scores={mpp_pronouns_select=1..}] mpp_pronouns_select 0
