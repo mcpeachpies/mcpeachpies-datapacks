@@ -22,7 +22,7 @@
       "label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.19"
     },
     {
-      "label": "IMPORTANT: For compatibility with <a href=\"/datapacks/?pronouns\" class=\"read-more\">Pronouns</a>, ensure Pronouns is placed above AFK Detector during world creation. If installing to an existing world or on a server, run `/datapack disable \"file/mcpeachpies_pronouns.zip\"` and `/datapack enable \"file/mcpeachpies_pronouns.zip\" after \"file/mcpeachpies_afk_detector.zip\"` after installation"
+      "label": "IMPORTANT: For compatibility with <a href=\"/datapacks/?pronouns\" class=\"read-more\">Pronouns</a>, ensure Pronouns is placed above AFK Detector during world creation. If installing to an existing world or on a server, run `/datapack disable \"file/mcpeachpies_pronouns.zip\"`, `/datapack enable \"file/mcpeachpies_pronouns.zip\" after \"file/mcpeachpies_afk_detector.zip\"`, and `/function mcpeachpies_afk_detector:setup_team` after installation"
     }
   ],
   "downloads": [

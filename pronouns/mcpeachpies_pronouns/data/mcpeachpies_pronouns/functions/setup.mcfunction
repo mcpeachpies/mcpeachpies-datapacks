@@ -1,5 +1,5 @@
 scoreboard objectives add pronouns trigger ["",{"text":"List available pronouns"}]
-scoreboard objectives add mpp_select_pronouns trigger
+scoreboard objectives add mpp_pronouns_select trigger
 
 function mcpeachpies_pronouns:setup_team
 
