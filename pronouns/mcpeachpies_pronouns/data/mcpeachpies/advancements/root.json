@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "player_head",
+      "nbt": "{SkullOwner:{Id:[I;1291048751,-1354610726,-1755922534,-2101443849],Properties:{textures:[{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzY1MjE4MDU4MywKICAicHJvZmlsZUlkIiA6ICIyZGJlYTkyZjJlYWU0NzhhOTIyODdmNDA1NzNlNWY0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJtY3BlYWNocGllcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zY2M0NDM0YzczMTRmZmQ5NTE1NTEzYTQ2M2ZmZTFmYjAzYzlkZmM1ZjAwYTc1YjYzOWE2Y2ZmNWZhOTZkYWQwIgogICAgfQogIH0KfQ==\"}]}}}"
+    },
+    "title": "mcpeachpies",
+    "description": "mcpeachpies datapack systems",
+    "frame": "task",
+    "background": "minecraft:textures/block/acacia_log.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
