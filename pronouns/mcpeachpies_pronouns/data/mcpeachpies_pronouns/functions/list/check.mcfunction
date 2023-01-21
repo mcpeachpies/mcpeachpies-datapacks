@@ -9,6 +9,4 @@ execute as @s[scores={pronouns=8}] run function mcpeachpies_pronouns:list/eight
 execute as @s[scores={pronouns=9}] run function mcpeachpies_pronouns:list/nine
 execute as @s[scores={pronouns=10}] run function mcpeachpies_pronouns:list/ten
 
-advancement grant @s only mcpeachpies:pronouns/me_myself_and_i
-
 scoreboard players set @s[scores={pronouns=1..}] pronouns 0
