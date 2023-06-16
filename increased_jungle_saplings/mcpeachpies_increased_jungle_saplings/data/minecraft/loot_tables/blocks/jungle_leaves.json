@@ -6,20 +6,18 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "type": "minecraft:alternatives",
+          "type": "minecraft:any_ofs",
           "children": [
             {
               "type": "minecraft:item",
               "conditions": [
                 {
-                  "condition": "minecraft:alternative",
+                  "condition": "minecraft:any_of",
                   "terms": [
                     {
                       "condition": "minecraft:match_tool",
                       "predicate": {
-                        "items": [
-                          "minecraft:shears"
-                        ]
+                        "items": ["minecraft:shears"]
                       }
                     },
                     {
@@ -49,12 +47,7 @@
                 {
                   "condition": "minecraft:table_bonus",
                   "enchantment": "minecraft:fortune",
-                  "chances": [
-                    0.05,
-                    0.0625,
-                    0.083333336,
-                    0.1
-                  ]
+                  "chances": [0.05, 0.0625, 0.083333336, 0.1]
                 }
               ],
               "name": "minecraft:jungle_sapling"
@@ -73,13 +66,7 @@
             {
               "condition": "minecraft:table_bonus",
               "enchantment": "minecraft:fortune",
-              "chances": [
-                0.02,
-                0.022222223,
-                0.025,
-                0.033333335,
-                0.1
-              ]
+              "chances": [0.02, 0.022222223, 0.025, 0.033333335, 0.1]
             }
           ],
           "functions": [
@@ -103,14 +90,12 @@
         {
           "condition": "minecraft:inverted",
           "term": {
-            "condition": "minecraft:alternative",
+            "condition": "minecraft:any_of",
             "terms": [
               {
                 "condition": "minecraft:match_tool",
                 "predicate": {
-                  "items": [
-                    "minecraft:shears"
-                  ]
+                  "items": ["minecraft:shears"]
                 }
               },
               {
@@ -131,5 +116,6 @@
         }
       ]
     }
-  ]
+  ],
+  "random_sequence": "minecraft:blocks/jungle_leaves"
 }
