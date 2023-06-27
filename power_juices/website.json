@@ -1,0 +1,22 @@
+{
+	"title": "Power Juices",
+	"description_short": "Juice!",
+	"description": "Inspired by \"Power Juices\" by SugarCaney",
+	"youtube": null,
+	"icon": "mcpeachpies_power_juices/pack.png",
+	"list_on_site": false,
+	"features": [
+		{
+			"label": "Made in development with iGalaxy, Noelle, ItsPurpleJay & SugarCaney"
+		},
+		{
+			"label": "Compatible with Minecraft 1.20 and up, last tested on Minecraft 1.20"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "#"
+		}
+	]
+}
