@@ -2,6 +2,7 @@ tellraw @a[gamemode=!survival,gamemode=!adventure] ["",{"text":"Loaded ","color"
 
 #DEBUG
 kill @e[tag=mpp_juicer]
+kill @e[tag=mpp_juicer_display]
 
 #Setup Check
 scoreboard objectives add mpp_datapacks dummy {"text":"mcpeachpies Datapacks","color":"blue"}
