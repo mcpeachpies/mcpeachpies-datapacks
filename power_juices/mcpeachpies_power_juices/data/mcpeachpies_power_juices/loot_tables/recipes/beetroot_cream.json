@@ -38,7 +38,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Beetroot Cream"
+              "name": { "text": "Beetroot Cream", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",

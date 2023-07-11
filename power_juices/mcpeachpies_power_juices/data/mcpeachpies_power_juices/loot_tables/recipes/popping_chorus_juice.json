@@ -20,7 +20,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Popping Chorus Juice"
+              "name": { "text": "Popping Chorus Juice", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",

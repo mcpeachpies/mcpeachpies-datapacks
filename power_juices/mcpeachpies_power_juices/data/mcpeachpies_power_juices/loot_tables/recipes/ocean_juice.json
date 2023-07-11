@@ -20,7 +20,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Ocean Juice"
+              "name": { "text": "Ocean Juice", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",

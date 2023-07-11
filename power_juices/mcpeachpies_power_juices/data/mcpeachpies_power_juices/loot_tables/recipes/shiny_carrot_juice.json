@@ -20,7 +20,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Shiny Carrot Juice"
+              "name": { "text": "Shiny Carrot Juice", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",

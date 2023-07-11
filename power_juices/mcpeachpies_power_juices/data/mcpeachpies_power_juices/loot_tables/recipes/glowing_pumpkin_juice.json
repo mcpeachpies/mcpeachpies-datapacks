@@ -20,7 +20,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Glowing Pumpkin Juice"
+              "name": { "text": "Glowing Pumpkin Juice", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",

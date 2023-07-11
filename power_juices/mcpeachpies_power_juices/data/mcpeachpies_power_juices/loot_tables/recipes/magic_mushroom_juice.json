@@ -20,7 +20,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Magic Mushroom Juice"
+              "name": { "text": "Magic Mushroom Juice", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",

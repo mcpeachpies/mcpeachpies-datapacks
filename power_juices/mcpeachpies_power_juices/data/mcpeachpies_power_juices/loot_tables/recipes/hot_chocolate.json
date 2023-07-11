@@ -38,7 +38,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Hot Chocolate"
+              "name": { "text": "Hot Chocolate", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",

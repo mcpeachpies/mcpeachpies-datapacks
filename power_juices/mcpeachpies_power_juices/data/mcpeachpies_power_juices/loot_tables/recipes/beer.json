@@ -20,7 +20,7 @@
             {
               "function": "minecraft:set_name",
               "entity": "this",
-              "name": "Beer"
+              "name": { "text": "Beer", "italic": false }
             },
             {
               "function": "minecraft:set_nbt",
