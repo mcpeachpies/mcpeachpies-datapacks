@@ -1,4 +1,5 @@
 scoreboard players set mpp_juices_setup mpp_datapacks 1
+scoreboard objectives add mpp_pj_data dummy
 
 function mcpeachpies_power_juices:clock
 
