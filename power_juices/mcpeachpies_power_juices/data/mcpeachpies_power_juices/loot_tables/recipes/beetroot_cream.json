@@ -2,7 +2,25 @@
   "type": "minecraft:generic",
   "pools": [
     {
-      "rolls": 4,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bucket"
+        }
+      ]
+    },
+    {
+      "rolls": 2,
       "entries": [
         {
           "type": "minecraft:item",
