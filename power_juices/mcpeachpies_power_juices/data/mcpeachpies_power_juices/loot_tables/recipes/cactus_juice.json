@@ -24,7 +24,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionEffects:[{Id:11,Duration:1800},{Id:23}]}"
+              "tag": "{CustomPotionColor:11523706,CustomPotionEffects:[{Id:11,Duration:1800},{Id:23,Amplifier:1}]}"
             }
           ]
         }
