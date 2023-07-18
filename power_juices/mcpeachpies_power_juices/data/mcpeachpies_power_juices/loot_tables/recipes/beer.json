@@ -24,7 +24,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionColor:16499969,CustomPotionEffects:[{Id:4,Duration:600},{Id:9,Amplifier:1,Duration:340},{Id:23,Amplifier:5}]}"
+              "tag": "{Potion:\"mcpeachpies_power_juices:beer\",CustomPotionColor:16499969,CustomPotionEffects:[{Id:4,Duration:600},{Id:9,Amplifier:1,Duration:340},{Id:23,Amplifier:5}]}"
             }
           ]
         }

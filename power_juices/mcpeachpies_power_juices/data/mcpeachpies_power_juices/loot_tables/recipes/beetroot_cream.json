@@ -42,7 +42,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionColor:12082863,CustomPotionEffects:[{Id:21,Duration:3600},{Id:23,Amplifier:5}]}"
+              "tag": "{Potion:\"mcpeachpies_power_juices:beetroot_cream\",CustomPotionColor:12082863,CustomPotionEffects:[{Id:21,Duration:3600},{Id:23,Amplifier:5}]}"
             }
           ]
         }

@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "Splash Concentrated Cactus Juice",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"mcpeachpies_power_juices:concentrated_cactus_juice\",CustomPotionColor:10799473,CustomPotionEffects:[{Id:11,Amplifier:1,Duration:1800},{Id:9,Amplifier:0,Duration:180},{Id:23,Amplifier:3}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

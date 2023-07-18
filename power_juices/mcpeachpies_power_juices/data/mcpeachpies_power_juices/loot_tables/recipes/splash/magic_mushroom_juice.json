@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "Splash Magic Mushroom Juice",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"mcpeachpies_power_juices:magic_mushroom_juice\",CustomPotionColor:9581977,CustomPotionEffects:[{Id:9,Duration:600},{Id:8,Amplifier:5,Duration:1200},{Id:4,Duration:1200},{Id:24,Duration:1200},{Id:19,Duration:1200},{Id:10,Duration:1200,Amplifier:1},{Id:23,Amplifier:3}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

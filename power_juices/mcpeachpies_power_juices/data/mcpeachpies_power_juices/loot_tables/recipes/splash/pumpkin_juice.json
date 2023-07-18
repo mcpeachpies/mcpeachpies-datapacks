@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "Splash Pumpkin Juice",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"mcpeachpies_power_juices:pumpkin_juice\",CustomPotionColor:15372035,CustomPotionEffects:[{Id:3,Duration:2400},{Id:23,Amplifier:5}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
