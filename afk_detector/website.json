@@ -29,10 +29,6 @@
     {
       "label": "Download",
       "file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_afk_detector.zip"
-    },
-    {
-      "label": "Download (Plus Pronouns)",
-      "file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_pronouns_afk_detector.zip"
     }
   ]
 }
