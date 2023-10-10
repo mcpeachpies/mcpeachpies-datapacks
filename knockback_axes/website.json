@@ -1,0 +1,22 @@
+{
+	"title": "Knockback Axes",
+	"description_short": "Add the knockback enchantment to axes",
+	"description": "Grants the ability to add knockback enchanted books to axes",
+	"youtube": null,
+	"icon": "mcpeachpies_knockback_axes/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "PLACEHOLDER"
+		},
+		{
+			"label": "Last tested on Minecraft 1.20"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_knockback_axes.zip"
+		}
+	]
+}
