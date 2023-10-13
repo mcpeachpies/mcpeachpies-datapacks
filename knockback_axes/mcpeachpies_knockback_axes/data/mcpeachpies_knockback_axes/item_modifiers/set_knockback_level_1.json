@@ -3,5 +3,5 @@
   "enchantments": {
     "minecraft:knockback": 1
   },
-  "add": true
+  "add": false
 }
