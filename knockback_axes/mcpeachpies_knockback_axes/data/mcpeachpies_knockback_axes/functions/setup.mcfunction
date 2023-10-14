@@ -5,6 +5,9 @@ scoreboard objectives add mpp_axes_hold_book dummy
 scoreboard objectives add mpp_axes_xp_level dummy
 scoreboard objectives add mpp_axes_repair_level dummy
 
+scoreboard objectives add mpp_axes_enchanted dummy
+scoreboard objectives modify mpp_axes_enchanted displayname {"text":"Total Axes Enchanted","color":"blue"}
+
 scoreboard objectives add mpp_axes_use_anvil minecraft.custom:minecraft.interact_with_anvil
 
 scoreboard objectives add mpp_axes_value dummy

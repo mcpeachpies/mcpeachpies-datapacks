@@ -3,6 +3,8 @@ title @a actionbar ["",{"text":"Enchantment Cost: ","color":"green"},{"score":{"
 item replace entity @s weapon.offhand with air
 execute at @s run playsound block.anvil.use block @a ~ ~ ~
 
+scoreboard players add @s mpp_axes_enchanted 1
+
 function mcpeachpies_knockback_axes:remove_xp_levels
 
 #DEBUG
