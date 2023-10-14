@@ -3,7 +3,6 @@ scoreboard objectives add mpp_axes_book_level dummy
 scoreboard objectives add mpp_axes_hold_axe dummy
 scoreboard objectives add mpp_axes_hold_book dummy
 scoreboard objectives add mpp_axes_xp_level dummy
-scoreboard objectives add mpp_axes_book_enchants dummy
 scoreboard objectives add mpp_axes_repair_level dummy
 
 scoreboard objectives add mpp_axes_use_anvil minecraft.custom:minecraft.interact_with_anvil

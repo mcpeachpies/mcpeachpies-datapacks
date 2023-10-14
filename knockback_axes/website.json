@@ -7,7 +7,7 @@
 	"list_on_site": true,
 	"features": [
 		{
-			"label": "PLACEHOLDER"
+			"label": "Knockback enchantment can be applied to any axe by holding an enchanted book in the players offhand and an axe in the mainhand.</br>Then, interact with an anvil to apply the enchantment if you have sufficent XP levels"
 		},
 		{
 			"label": "Last tested on Minecraft 1.20"

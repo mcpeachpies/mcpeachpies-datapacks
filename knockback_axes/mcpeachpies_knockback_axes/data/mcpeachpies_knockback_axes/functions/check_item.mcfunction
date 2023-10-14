@@ -14,13 +14,11 @@ execute if entity @a[nbt={SelectedItem:{id:"minecraft:netherite_axe"}}] run scor
 
 #CHECK BOOK
 scoreboard players set @s mpp_axes_hold_book 0
-execute store result score @s mpp_axes_book_enchants run data get entity @s Inventory[{Slot:-106b}].tag.StoredEnchantments
-execute if score @s mpp_axes_book_enchants matches 1 if entity @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:knockback"}]}}]}] run scoreboard players set @s mpp_axes_hold_book 1
-execute if score @s mpp_axes_book_enchants matches 2..1000000000 run say Too Many Enchantments on book
+execute if entity @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:knockback"}]}}]}] run scoreboard players set @s mpp_axes_hold_book 1
 
 #DEBUG
-execute unless score @s mpp_axes_hold_axe matches 0 run say @s is holding an AXE
-execute unless score @s mpp_axes_hold_book matches 0 run say @s is holding an enchanted knockback BOOK
+#execute unless score @s mpp_axes_hold_axe matches 0 run say @s is holding an AXE
+#execute unless score @s mpp_axes_hold_book matches 0 run say @s is holding an enchanted knockback BOOK
 
 #CHECK ENCHANTMENT
 scoreboard players set @s mpp_axes_axe_level 0
@@ -41,4 +39,6 @@ execute if score @s mpp_axes_axe_level matches 0 if score @s mpp_axes_book_level
 
 #ENCHANT AXE
 execute if score @s mpp_axes_xp_level >= @s mpp_axes_repair_level if score @s mpp_axes_hold_axe matches 1 if score @s mpp_axes_hold_book matches 1 run function mcpeachpies_knockback_axes:check_enchant
-execute if score @s mpp_axes_xp_level < @s mpp_axes_repair_level if score @s mpp_axes_hold_axe matches 1 if score @s mpp_axes_hold_book matches 1 run say Too Expensive!
+
+execute if score @s mpp_axes_xp_level < @s mpp_axes_repair_level if score @s mpp_axes_hold_axe matches 1 if score @s mpp_axes_hold_book matches 1 run execute at @s run playsound block.anvil.land block @s ~ ~ ~
+execute if score @s mpp_axes_xp_level < @s mpp_axes_repair_level if score @s mpp_axes_hold_axe matches 1 if score @s mpp_axes_hold_book matches 1 run title @a actionbar ["",{"text":"Enchantment Cost: ","color":"red"},{"score":{"name":"@s","objective":"mpp_axes_repair_level"},"color":"red"}]

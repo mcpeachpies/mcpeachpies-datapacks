@@ -1,7 +1,9 @@
+title @a actionbar ["",{"text":"Enchantment Cost: ","color":"green"},{"score":{"name":"@s","objective":"mpp_axes_repair_level"},"color":"green"}]
+
+item replace entity @s weapon.offhand with air
+execute at @s run playsound block.anvil.use block @a ~ ~ ~
+
 function mcpeachpies_knockback_axes:remove_xp_levels
 
-item replace entity @s weapon.offhand with book
-playsound block.anvil.use block @s ~ ~ ~
-
 #DEBUG
-say Axe enchanted
+#say Axe enchanted
