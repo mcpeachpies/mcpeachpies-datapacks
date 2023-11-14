@@ -2,7 +2,7 @@ name: Compress and Release
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
 
   workflow_dispatch:
 
@@ -13,7 +13,13 @@ jobs:
     steps:
       - name: Clone repository
         uses: actions/checkout@v2
-        
+
+      - name: Copy license
+        shell: pwsh
+        run: |
+          $dirs = Get-ChildItem -Directory -Recurse -Depth 1 | Where { !$_.Name.StartsWith(".") -and $_.Name.StartsWith("mcpeachpies") }
+          $dirs | ForEach { Copy-Item -Path "$pwd/LICENSE" -Destination "$_/LICENSE" }
+
         # Credit to Pexien
       - name: Compress datapacks
         shell: pwsh
