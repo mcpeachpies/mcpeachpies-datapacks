@@ -1,6 +1,14 @@
 {
-    "pack": {
-        "pack_format": 10,
-        "description": "§9mcpeachpies Power Juices\n§7v0.1"
-    }
+	"pack": {
+		"pack_format": 10,
+		"description": "§9mcpeachpies Power Juices\n§7v0.1"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": 18,
+				"directory": "overlay_18"
+			}
+		]
+	}
 }

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": { "text": "Beetroot Juice", "italic": false }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"mcpeachpies_power_juices:beetroot_juice\",CustomPotionColor:13179962,custom_potion_effects:[{id:'minecraft:health_boost',duration:1800},{id:'minecraft:saturation',amplifier:1}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
