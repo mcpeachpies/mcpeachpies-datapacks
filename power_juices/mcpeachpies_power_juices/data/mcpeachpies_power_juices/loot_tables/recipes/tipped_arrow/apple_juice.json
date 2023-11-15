@@ -1,0 +1,24 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:tipped_arrow",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"entity": "this",
+							"name": { "text": "Arrow of Apple Juice", "italic": false }
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mcpeachpies_power_juices:apple_juice\",CustomPotionColor:16626446,CustomPotionEffects:[{Id:1,Duration:1201},{Id:8,Amplifier:1,Duration:1201},{Id:23,Amplifier:3}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

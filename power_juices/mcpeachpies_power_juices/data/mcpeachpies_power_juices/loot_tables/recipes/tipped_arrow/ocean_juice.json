@@ -1,0 +1,27 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:tipped_arrow",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"entity": "this",
+							"name": {
+								"text": "Arrow of Ocean Juice",
+								"italic": false
+							}
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mcpeachpies_power_juices:ocean_juice\",CustomPotionColor:6149286,CustomPotionEffects:[{Id:29,Duration:2401},{Id:30,Duration:2401},{Id:23,Amplifier:1}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

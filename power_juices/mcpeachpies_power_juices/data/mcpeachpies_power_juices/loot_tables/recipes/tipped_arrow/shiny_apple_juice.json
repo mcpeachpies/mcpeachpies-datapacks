@@ -1,0 +1,27 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:tipped_arrow",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"entity": "this",
+							"name": {
+								"text": "Arrow of Shiny Apple Juice",
+								"italic": false
+							}
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mcpeachpies_power_juices:shiny_apple_juice\",CustomPotionColor:16761924,CustomPotionEffects:[{Id:1,Duration:2401},{Id:8,Amplifier:1,Duration:2401},{Id:22,Duration:2401},{Id:10,Amplifier:1,Duration:101},{Id:23,Amplifier:1}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
