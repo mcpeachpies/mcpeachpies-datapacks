@@ -17,7 +17,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"mcpeachpies_power_juices:glowing_pumpkin_juice\",CustomPotionColor:15372035,CustomPotionEffects:[{Id:3,Amplifier:1,Duration:3000},{Id:24,Duration:3000},{Id:23,Amplifier:5}]}"
+              "tag": "{Potion:\"mcpeachpies_power_juices:glowing_pumpkin_juice\",CustomPotionColor:15372035,custom_potion_effects:[{id:'minecraft:haste',amplifier:1,duration:3000},{id:'minecraft:glowing',duration:3000},{id:'minecraft:saturation',amplifier:5}]}"
             }
           ]
         }

@@ -24,7 +24,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"mcpeachpies_power_juices:sparkling_apple_juice\",CustomPotionColor:16765009,CustomPotionEffects:[{Id:1,Amplifier:1,Duration:2400},{Id:8,Amplifier:1,Duration:2400},{Id:22,Amplifier:3,Duration:2400},{Id:10,Amplifier:4,Duration:6000},{Id:12,Duration:6000},{Id:11,Duration:6000},{Id:23,Amplifier:19}]}"
+              "tag": "{Potion:\"mcpeachpies_power_juices:sparkling_apple_juice\",CustomPotionColor:16765009,custom_potion_effects:[{id:'minecraft:speed',amplifier:1,duration:2400},{id:'minecraft:jump_boost',amplifier:1,duration:2400},{id:'minecraft:absorption',amplifier:3,duration:2400},{id:'minecraft:regeneration',amplifier:4,duration:6000},{id:'minecraft:fire_resistance',duration:6000},{id:'minecraft:resistance',duration:6000},{id:'minecraft:saturation',amplifier:19}]}"
             }
           ]
         }

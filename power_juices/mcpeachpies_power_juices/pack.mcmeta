@@ -1,18 +1,10 @@
 {
 	"pack": {
-		"pack_format": 18,
+		"pack_format": 26,
 		"supported_formats": {
-			"min_inclusive": 15,
-			"max_inclusive": 18
+			"min_inclusive": 18,
+			"max_inclusive": 26
 		},
 		"description": "§9mcpeachpies Power Juices\n§7v0.1"
-	},
-	"overlays": {
-		"entries": [
-			{
-				"formats": 18,
-				"directory": "overlay_18"
-			}
-		]
 	}
 }

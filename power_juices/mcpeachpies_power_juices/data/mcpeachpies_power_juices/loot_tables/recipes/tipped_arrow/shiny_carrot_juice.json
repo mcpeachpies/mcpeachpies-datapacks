@@ -17,7 +17,7 @@
 						},
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{Potion:\"mcpeachpies_power_juices:shiny_carrot_juice\",CustomPotionColor:15895325,CustomPotionEffects:[{Id:12,Duration:9601},{Id:16,Duration:9601},{Id:23,Amplifier:5}]}"
+							"tag": "{Potion:\"mcpeachpies_power_juices:shiny_carrot_juice\",CustomPotionColor:15895325,custom_potion_effects:[{id:'minecraft:fire_resistance',duration:9601},{id:'minecraft:night_vision',duration:9601},{id:'minecraft:saturation',amplifier:5}]}"
 						}
 					]
 				}

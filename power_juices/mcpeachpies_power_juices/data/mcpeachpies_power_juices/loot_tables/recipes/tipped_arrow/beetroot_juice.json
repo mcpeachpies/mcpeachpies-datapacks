@@ -14,7 +14,7 @@
 						},
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{Potion:\"mcpeachpies_power_juices:beetroot_juice\",CustomPotionColor:13179962,CustomPotionEffects:[{Id:21,Duration:1801},{Id:23,Amplifier:1}]}"
+							"tag": "{Potion:\"mcpeachpies_power_juices:beetroot_juice\",CustomPotionColor:13179962,custom_potion_effects:[{id:'minecraft:health_boost',duration:1801},{id:'minecraft:saturation',amplifier:1}]}"
 						}
 					]
 				}

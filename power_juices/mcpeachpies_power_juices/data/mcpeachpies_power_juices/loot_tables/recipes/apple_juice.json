@@ -1,34 +1,34 @@
 {
-  "type": "minecraft:generic",
-  "pools": [
-    {
-      "rolls": 4,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air"
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:potion",
-          "functions": [
-            {
-              "function": "minecraft:set_name",
-              "entity": "this",
-              "name": { "text": "Apple Juice", "italic": false }
-            },
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"mcpeachpies_power_juices:apple_juice\",CustomPotionColor:16626446,CustomPotionEffects:[{Id:1,Duration:1200},{Id:8,Amplifier:1,Duration:1200},{Id:23,Amplifier:3}]}"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"type": "minecraft:generic",
+	"pools": [
+		{
+			"rolls": 4,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:air"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"entity": "this",
+							"name": { "text": "Apple Juice", "italic": false }
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mcpeachpies_power_juices:apple_juice\",CustomPotionColor:16626446,custom_potion_effects:[{id:'minecraft:speed',duration:1200},{id:'minecraft:jump_boost',amplifier:1,duration:1200},{id:'minecraft:saturation',amplifier:3}]}"
+						}
+					]
+				}
+			]
+		}
+	]
 }

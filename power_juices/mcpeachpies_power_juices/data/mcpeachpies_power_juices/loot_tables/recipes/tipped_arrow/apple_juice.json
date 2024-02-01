@@ -14,7 +14,7 @@
 						},
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{Potion:\"mcpeachpies_power_juices:apple_juice\",CustomPotionColor:16626446,CustomPotionEffects:[{Id:1,Duration:1201},{Id:8,Amplifier:1,Duration:1201},{Id:23,Amplifier:3}]}"
+							"tag": "{Potion:\"mcpeachpies_power_juices:apple_juice\",CustomPotionColor:16626446,custom_potion_effects:[{id:'minecraft:speed',duration:1201},{id:'minecraft:jump_boost',amplifier:1,duration:1201},{id:'minecraft:saturation',amplifier:3}]}"
 						}
 					]
 				}
