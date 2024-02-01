@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": { "text": "Concentrated Cactus Juice", "italic": false }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"mcpeachpies_power_juices:concentrated_cactus_juice\",CustomPotionColor:10799473,custom_potion_effects:[{id:'minecraft:resistance',amplifier:1,duration:1800},{id:'minecraft:nausea',amplifier:0,duration:180},{id:'minecraft:saturation',amplifier:3}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

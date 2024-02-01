@@ -1,0 +1,357 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/apple_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:apple_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/beer",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:beer\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/beetroot_cream",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:beetroot_cream\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/beetroot_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:beetroot_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/cactus_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:cactus_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/carrot_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:carrot_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/chorus_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:chorus_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/concentrated_cactus_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:concentrated_cactus_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/glowing_pumpkin_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:glowing_pumpkin_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/hot_chocolate",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:hot_chocolate\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/magic_mushroom_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:magic_mushroom_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/melon_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:melon_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/ocean_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:ocean_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/popping_chorus_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:popping_chorus_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/pumpkin_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:pumpkin_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/shiny_apple_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:shiny_apple_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/shiny_carrot_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:shiny_carrot_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/shiny_melon_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:shiny_melon_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "mcpeachpies_power_juices:recipes/splash/sparkling_apple_juice",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "nbt": "{data:{gm4_brewing:{insert:{tag:{Potion:\"mcpeachpies_power_juices:sparkling_apple_juice\"}}}}}"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_nbt",
+          "tag": "{gm4_custom_potion:1b}"
+        }
+      ]
+    }
+  ]
+}
