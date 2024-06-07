@@ -7,7 +7,7 @@
   "icon": "mcpeachpies_afk_detector/pack.png",
   "features": [
     {
-      "label": "Announces players who have not moved in 5 minutes as away from their keyboards"
+      "label": "Announces players who have not moved their camera in 5 minutes as away from their keyboards"
     },
     {
       "label": "Attaches AFK prefix to players who are away from their keyboards"

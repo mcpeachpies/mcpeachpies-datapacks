@@ -15,9 +15,9 @@ execute store result score @s mpp_afk_yaw run data get storage mcpeachpies_afk_d
 execute store result score @s mpp_afk_pitch run data get storage mcpeachpies_afk_detector:player_nbt player.Rotation[1]
 
 #Check for movment
-execute if score @s mpp_afk_x = @s mpp_afk_x1 run scoreboard players add @s mpp_afk_still 1
-execute if score @s mpp_afk_y = @s mpp_afk_y1 run scoreboard players add @s mpp_afk_still 1
-execute if score @s mpp_afk_z = @s mpp_afk_z1 run scoreboard players add @s mpp_afk_still 1
+#execute if score @s mpp_afk_x = @s mpp_afk_x1 run scoreboard players add @s mpp_afk_still 1
+#execute if score @s mpp_afk_y = @s mpp_afk_y1 run scoreboard players add @s mpp_afk_still 1
+#execute if score @s mpp_afk_z = @s mpp_afk_z1 run scoreboard players add @s mpp_afk_still 1
 execute if score @s mpp_afk_yaw = @s mpp_afk_yaw1 run scoreboard players add @s mpp_afk_still 1
 execute if score @s mpp_afk_pitch = @s mpp_afk_pitch1 run scoreboard players add @s mpp_afk_still 1
 
@@ -29,8 +29,8 @@ execute store result score @s mpp_afk_z1 run data get storage mcpeachpies_afk_de
 execute store result score @s mpp_afk_yaw1 run data get storage mcpeachpies_afk_detector:player_nbt player.Rotation[0]
 execute store result score @s mpp_afk_pitch1 run data get storage mcpeachpies_afk_detector:player_nbt player.Rotation[1]
 
-scoreboard players add @s[scores={mpp_afk_still=5},tag=!mpp_afk] mpp_afk_count 1
-scoreboard players set @s[scores={mpp_afk_still=..4}] mpp_afk_count 0
+scoreboard players add @s[scores={mpp_afk_still=2},tag=!mpp_afk] mpp_afk_count 1
+scoreboard players set @s[scores={mpp_afk_still=..1}] mpp_afk_count 0
 
 execute as @s[tag=mpp_afk] run function mcpeachpies_afk_detector:advancement_check
 
