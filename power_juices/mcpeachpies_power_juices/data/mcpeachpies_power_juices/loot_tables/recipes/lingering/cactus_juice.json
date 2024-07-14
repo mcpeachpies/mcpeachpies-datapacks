@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lingering_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": { "text": "Lingering Cactus Juice", "italic": false }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"mcpeachpies_power_juices:cactus_juice\",CustomPotionColor:11523706,custom_potion_effects:[{id:'minecraft:resistance',duration:1800},{id:'minecraft:saturation',amplifier:1}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
