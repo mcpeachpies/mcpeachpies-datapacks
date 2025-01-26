@@ -1,5 +1,5 @@
 scoreboard objectives add pronouns trigger ["",{"text":"List available pronouns","color":"blue"}]
-scoreboard objectives add mpp_pronouns_sel trigger ["",{"text":"Select pronouns","color":"blue"}]
+scoreboard objectives add mpp_pronouns_select trigger ["",{"text":"Select pronouns","color":"blue"}]
 
 function mcpeachpies_pronouns:setup_team
 

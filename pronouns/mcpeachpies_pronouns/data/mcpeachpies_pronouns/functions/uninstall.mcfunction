@@ -168,5 +168,5 @@ team remove afk_mpp_prn_it_they_he
 team remove mpp_prn_it_they_she
 team remove afk_mpp_prn_it_they_she
 scoreboard objectives remove pronouns
-scoreboard objectives remove mpp_pronouns_sel
+scoreboard objectives remove mpp_pronouns_select
 scoreboard players reset mpp_pronouns_setup mpp_datapacks
