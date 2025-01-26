@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "name_tag"
+    },
+    "title": "Me, Myself, & I",
+    "description": "Declare your pronouns with /trigger pronouns",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mcpeachpies:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
