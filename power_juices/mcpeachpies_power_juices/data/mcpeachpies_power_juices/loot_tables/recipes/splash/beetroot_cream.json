@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": { "text": "Splash Beetroot Cream", "italic": false }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"mcpeachpies_power_juices:beetroot_cream\",CustomPotionColor:12082863,custom_potion_effects:[{id:'minecraft:health_boost',duration:3600},{id:'minecraft:saturation',amplifier:5}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
