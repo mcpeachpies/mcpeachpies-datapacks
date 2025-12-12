@@ -1,35 +1,35 @@
 {
-  "title": "Pronouns",
-  "description_short": "Let players declare their pronouns",
-  "description": "Let players express themselves by declaring their pronouns",
-  "youtube": null,
-  "list_on_site": true,
-  "icon": "mcpeachpies_pronouns/pack.png",
-  "features": [
-    {
-      "label": "Players can choose from a list of pronouns by running `/trigger pronouns [set &lt;page&gt;]`"
-    },
-    {
-      "label": "Pronouns will display next to the player's name, in the player list, and chat messages"
-    },
-    {
-      "label": "IMPORTANT: For compatibility with <a href=\"/datapacks/?afk_detector\" class=\"read-more\">AFK Detector</a>, ensure Pronouns is placed above AFK Detector during world creation. If installing to an existing world or on a server, run `/datapack disable \"file/mcpeachpies_pronouns.zip\"`, `/datapack enable \"file/mcpeachpies_pronouns.zip\" after \"file/mcpeachpies_afk_detector.zip\"`, and `/function mcpeachpies_afk_detector:setup_team` after installation"
-    },
-    {
-      "label": "Compatible with Minecraft 1.16 and up, last tested on Minecraft 1.20"
-    },
-    {
-      "label": "Contributed & maintained by <a href=\"https://igalaxy.dev\" class=\"read-more\">iGalaxy</a>"
-    }
-  ],
-  "downloads": [
-    {
-      "label": "Download 1.18 and up",
-      "file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_pronouns.zip"
-    },
-    {
-      "label": "Download 1.17 and below",
-      "file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_pronouns_1_16.zip"
-    }
-  ]
+	"title": "Pronouns",
+	"description_short": "Let players declare their pronouns",
+	"description": "Let players express themselves by declaring their pronouns",
+	"youtube": null,
+	"list_on_site": true,
+	"icon": "mcpeachpies_pronouns/pack.png",
+	"features": [
+		{
+			"label": "Players can choose from a list of pronouns by running `/trigger pronouns [set &lt;page&gt;]`"
+		},
+		{
+			"label": "Pronouns will display next to the player's name, in the player list, and chat messages"
+		},
+		{
+			"label": "IMPORTANT: For compatibility with <a href=\"/datapacks/?afk_detector\" class=\"read-more\">AFK Detector</a>, ensure Pronouns is placed above AFK Detector during world creation. If installing to an existing world or on a server, run `/datapack disable \"file/mcpeachpies_pronouns.zip\"`, `/datapack enable \"file/mcpeachpies_pronouns.zip\" after \"file/mcpeachpies_afk_detector.zip\"`, and `/function mcpeachpies_afk_detector:setup_team` after installation"
+		},
+		{
+			"label": "Compatible with Minecraft 1.16 and up, last tested on Minecraft 1.20"
+		},
+		{
+			"label": "Contributed & maintained by <a href=\"https://igalaxy.dev\" class=\"read-more\">iGalaxy</a>"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download 1.18 and up",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_pronouns.zip"
+		},
+		{
+			"label": "Download 1.17 and below",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_pronouns_1_16.zip"
+		}
+	]
 }

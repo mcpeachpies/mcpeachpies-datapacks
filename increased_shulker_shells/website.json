@@ -8,7 +8,8 @@
 	"features": [
 		{
 			"label": "Adds a second Shulker shell drop chance at the same drop rate as a single shell"
-		},{
+		},
+		{
 			"label": "Chance of dropping multiple shells increases with looting"
 		},
 		{
@@ -19,6 +20,10 @@
 		{
 			"label": "Download",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_shulker_shells.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/increased-shulker_shells"
 		}
 	]
 }

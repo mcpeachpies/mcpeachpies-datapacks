@@ -24,6 +24,10 @@
 		{
 			"label": "Download (Charged Creepers only)",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_player_head_drops_creeper_only.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/player-head-drops"
 		}
 	]
 }

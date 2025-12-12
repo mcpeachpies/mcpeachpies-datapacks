@@ -19,15 +19,19 @@
 			"label": "Clears rain and thunderstorms without distrupting natural in-game weather cycle"
 		},
 		{
-			"label": "1.15 & 1.16 version Allows players to sleep through the night when 25% of online players (In the overworld) are sleeping"
+			"label": "1.15 & 1.16 version allows players to sleep through the night when 25% of online players (In the overworld) are sleeping"
 		},
 		{
-			"label": "Compatible with Minecraft 1.15 and up, latest version tested on Minecraft 1.20"
+			"label": "Compatible with Minecraft 1.15 and up, latest version tested on Minecraft 1.21.10"
 		}
 	],
 	"downloads": [
 		{
-			"label": "Download for 1.17 & 1.18",
+			"label": "Download for 1.21+",
+			"file": "https://github.com/mcpeachpies/multiplayer-sleeping/releases/latest/download/mcpeachpies_multiplayer_sleeping.zip"
+		},
+		{
+			"label": "Download for 1.17-1.20",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_multiplayer_sleeping.zip"
 		},
 		{
@@ -37,6 +41,10 @@
 		{
 			"label": "Download for 1.15",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_multiplayer_sleeping_1_15.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/multiplayer-sleeping"
 		}
 	]
 }

@@ -36,6 +36,10 @@
 		{
 			"label": "Download (Plus Renewable Pigstep)",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/increased-head-drops"
 		}
 	]
 }

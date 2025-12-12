@@ -17,6 +17,10 @@
 		{
 			"label": "Download",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_knockback_axes.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/knockback-axes"
 		}
 	]
 }

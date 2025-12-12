@@ -29,6 +29,10 @@
 		{
 			"label": "Download",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_additional_glowing.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/additional-glowing"
 		}
 	]
 }

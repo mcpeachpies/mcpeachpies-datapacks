@@ -1,34 +1,38 @@
 {
-  "title": "AFK Detector",
-  "description_short": "Detect, announce, and label players who are away from their Keyboards",
-  "description": "Announce and label players who have been away from their keyboards for more than 5 minutes. Trigger command allows for players to instantly go AFK",
-  "youtube": null,
-  "list_on_site": true,
-  "icon": "mcpeachpies_afk_detector/pack.png",
-  "features": [
-    {
-      "label": "Announces players who have not moved their camera in 5 minutes as away from their keyboards"
-    },
-    {
-      "label": "Attaches AFK prefix to players who are away from their keyboards"
-    },
-    {
-      "label": "Optional team configurations to functionality with pre-establised in-game teams"
-    },
-    {
-      "label": "Trigger command to instantly go away from your keyboard `/trigger afk`"
-    },
-    {
-      "label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.20"
-    },
-    {
-      "label": "IMPORTANT: For compatibility with <a href=\"/datapacks/?pronouns\" class=\"read-more\">Pronouns</a>, ensure Pronouns is placed above AFK Detector during world creation. If installing to an existing world or on a server, run `/datapack disable \"file/mcpeachpies_pronouns.zip\"`, `/datapack enable \"file/mcpeachpies_pronouns.zip\" after \"file/mcpeachpies_afk_detector.zip\"`, and `/function mcpeachpies_afk_detector:setup_team` after installation"
-    }
-  ],
-  "downloads": [
-    {
-      "label": "Download",
-      "file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_afk_detector.zip"
-    }
-  ]
+	"title": "AFK Detector",
+	"description_short": "Detect, announce, and label players who are away from their Keyboards",
+	"description": "Announce and label players who have been away from their keyboards for more than 5 minutes. Trigger command allows for players to instantly go AFK",
+	"youtube": null,
+	"list_on_site": true,
+	"icon": "mcpeachpies_afk_detector/pack.png",
+	"features": [
+		{
+			"label": "Announces players who have not moved their camera in 5 minutes as away from their keyboards"
+		},
+		{
+			"label": "Attaches AFK prefix to players who are away from their keyboards"
+		},
+		{
+			"label": "Optional team configurations to functionality with pre-establised in-game teams"
+		},
+		{
+			"label": "Trigger command to instantly go away from your keyboard `/trigger afk`"
+		},
+		{
+			"label": "Compatible with Minecraft 1.13 and up, last tested on Minecraft 1.20"
+		},
+		{
+			"label": "IMPORTANT: For compatibility with <a href=\"/datapacks/?pronouns\" class=\"read-more\">Pronouns</a>, ensure Pronouns is placed above AFK Detector during world creation. If installing to an existing world or on a server, run `/datapack disable \"file/mcpeachpies_pronouns.zip\"`, `/datapack enable \"file/mcpeachpies_pronouns.zip\" after \"file/mcpeachpies_afk_detector.zip\"`, and `/function mcpeachpies_afk_detector:setup_team` after installation"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_afk_detector.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/afk-detector"
+		}
+	]
 }

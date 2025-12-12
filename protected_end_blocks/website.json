@@ -26,6 +26,10 @@
 		{
 			"label": "Download",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_protected_end_blocks.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/protected-end-blocks"
 		}
 	]
 }

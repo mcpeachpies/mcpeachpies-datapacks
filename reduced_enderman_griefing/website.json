@@ -17,6 +17,10 @@
 		{
 			"label": "Download",
 			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_reduced_enderman_griefing.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/reduced-enderman-griefing"
 		}
 	]
 }
