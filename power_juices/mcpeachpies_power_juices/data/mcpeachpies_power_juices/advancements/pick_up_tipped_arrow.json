@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["minecraft:tipped_arrow"]
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "mcpeachpies_power_juices:pick_up_tipped_arrow"
+	}
+}

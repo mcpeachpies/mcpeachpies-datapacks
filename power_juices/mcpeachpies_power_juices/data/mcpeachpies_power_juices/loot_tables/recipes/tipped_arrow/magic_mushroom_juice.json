@@ -1,0 +1,27 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:tipped_arrow",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"entity": "this",
+							"name": {
+								"text": "Arrow of Magic Mushroom Juice",
+								"italic": false
+							}
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mcpeachpies_power_juices:magic_mushroom_juice\",CustomPotionColor:9581977,custom_potion_effects:[{id:'minecraft:nausea',duration:601},{id:'minecraft:jump_boost',amplifier:5,duration:1201},{id:'minecraft:mining_fatigue',duration:1201},{id:'minecraft:glowing',duration:1201},{id:'minecraft:poison',duration:1201},{id:'minecraft:regeneration',duration:1201,amplifier:1},{id:'minecraft:saturation',amplifier:3}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
